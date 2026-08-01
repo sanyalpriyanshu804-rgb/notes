@@ -1,0 +1,1898 @@
+# **Detailed JEE Revision Notes: The Genesis of Organic Chemistry**
+Lec 1
+
+## **1. Core Theory**
+
+### **A. Historical Classification (Early 1800s)**
+The term "Organic" was first formally used in the early 1800s by **John Jacob Berzelius**. He classified chemistry into two primary domains based on the source of the matter:
+*   **Organic Chemistry:** Studied matter derived from **living organisms** (plants and animals) or matter that was once living.
+*   **Inorganic Chemistry:** Studied **non-living matter**, such as minerals, ores, and gases.
+
+### **B. Vital Force Theory (Vitalism)**
+Proposed by Berzelius, this theory attempted to explain why organic compounds were found only in living things.
+*   **The Concept:** Organic compounds are formed only under the influence of a **"Vital Force"** (a mysterious, inexplicable, or "God-like" power).
+*   **The Assumption:** Because this force was deemed "mysterious" and inherent only to life, it was believed that organic compounds **could not be synthesized in a laboratory**.
+
+### **C. The Breakthrough: Wohler’s Synthesis (1828)**
+**Friedrich Wohler**, a student of Berzelius, accidentally disproved Vitalism. While attempting to synthesize the inorganic compound **Ammonium Cyanate**, he ended up producing **Urea**.
+*   **The Reaction:**
+    1.  **Reactants:** Silver Cyanate ($AgCNO$) and Ammonium Chloride ($NH_4Cl$) in aqueous solution.
+    2.  **Intermediate:** Ammonium Cyanate ($NH_4CNO$) and a precipitate of Silver Chloride ($AgCl$).
+    3.  **The Process:** After filtering out $AgCl$, the aqueous $NH_4CNO$ was heated (approx. $60^\circ C$) to crystallize it.
+    4.  **The Result:** The resulting solid was **Urea** ($NH_2CONH_2$), a known organic compound found in urine.
+
+**Chemical Equation:**
+$$NH_4CNO (\text{Inorganic}) \xrightarrow{\Delta} NH_2CONH_2 (\text{Organic})$$
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **The "Seed to Tree" Mental Model:** The teacher explains Vitalism through the analogy of a seed. When a seed grows into a massive tree, the "force" driving that transformation was historically viewed as a mysterious energy (Vital Force) because there was no scientific explanation for the complex chemical assembly at the time.
+*   **Why it Matters:** This historical shift marks the transition of Chemistry from a philosophical "observation-based" study to a "synthesis-based" science where humans could recreate nature's building blocks.
+*   **The Power of Observation:** Organic chemistry is described as the "Subject of Diagrams". Success depends on visualizing structures and understanding that a change in arrangement (Isomerism) leads to entirely different properties.
+
+---
+
+## **3. Formula Sheet**
+
+| Compound Name | Formula | Nature |
+| :--- | :--- | :--- |
+| **Silver Cyanate** | $AgCNO$ | Inorganic Reactant |
+| **Ammonium Chloride** | $NH_4Cl$ | Inorganic Reactant |
+| **Ammonium Cyanate** | $NH_4CNO$ | Inorganic Intermediate |
+| **Urea** | $NH_2CONH_2$ | **First Lab-Synthesized Organic Compound** |
+| **Molecular Formula (Both)** | $CH_4N_2O$ | Same for Ammonium Cyanate & Urea |
+
+---
+
+## **4. Concept Connections**
+*   **Isomerism:** This lecture introduces the very first example of isomerism—compounds with the **same molecular formula** ($CH_4N_2O$) but **different structures** and properties.
+*   **Biochemistry Link:** Organic chemistry is inseparable from life processes.
+    *   **Vision:** Retinal (Organic compound) converts visible light into nerve impulses in the retina.
+    *   **Brain Function:** Data transfer between neurons occurs via Amino Acid bridges (Organic compounds).
+    *   **Energy:** Muscles derive energy from the breakdown of Carbohydrates (Organic compounds).
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy |
+| :--- | :--- | :--- |
+| **History of Synthesis** | Questions regarding the first organic compound made in a lab. | Recall **Urea** synthesized by **Friedrich Wohler**. |
+| **Identifying Isomers** | Comparing $NH_4CNO$ and $NH_2CONH_2$. | Recognize they have the same atoms ($1 C, 4 H, 2 N, 1 O$) but different bonding/properties. |
+| **Reaction Conditions** | "What happens when $NH_4CNO$ is heated?" | It undergoes rearrangement to form **Urea**. |
+
+---
+
+## **6. Examples and Applications**
+*   **Ancient Medicine:** **Willow Bark** (contains Salicin/Aspirin family) was used as a painkiller long before the term "organic chemistry" existed.
+*   **The Accidental Discovery:** Wohler was not trying to disprove his teacher; he was just trying to make Ammonium Cyanate. This highlights that in JEE and science, unexpected results often lead to the biggest breakthroughs.
+
+---
+
+## **7. JEE Advanced Insights**
+*   **Vital Force Theory Discarded:** The synthesis of Urea was the "death blow" to Vitalism, proving that the laws of chemistry are the same for both living and non-living matter.
+*   **Defining Organic Compounds today:** While originally defined by "source," the teacher hints that 98% of all known compounds today are organic, necessitating a more modern structural definition (covered in future lectures).
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Treating $NH_4CNO$ and Urea as the same** | They have the same number of atoms. | They are **Isomers**. One is ionic ($NH_4^+$ and $CNO^-$), the other is covalent (Urea). |
+| **Assuming Wohler set out to make Urea** | It's a famous experiment. | It was an **accidental** discovery while trying to make Ammonium Cyanate. |
+| **Vitalism is still valid** | Misunderstanding "natural" vs "synthetic." | Vitalism was fully **discarded** by 1828. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Berzelius:** Coined "Organic," proposed **Vital Force Theory**.
+*   **Wohler (1828):** Synthesized **Urea** from **Ammonium Cyanate**.
+*   **Isomerism:** Compounds with same molecular formula but different properties (e.g., Ammonium Cyanate vs. Urea).
+
+### **Key Patterns**
+*   **JEE Main:** Often asks for the name of the first lab-synthesized organic compound (Urea) and its creator (Wohler).
+*   **Conceptual:** Understanding that Organic Chemistry is no longer defined by "living source" but by the study of specific compounds (mostly Carbon-based).
+
+### **Last-Minute Revision Points**
+*   **Reaction:** $AgCNO + NH_4Cl \rightarrow AgCl \downarrow + NH_4CNO \xrightarrow{\Delta} NH_2CONH_2$.
+*   **Isomer Definition:** Same Molecular Formula + At least one difference in structure/properties.
+*   **Scale:** 98% of known compounds are Organic.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: IUPAC Nomenclature (Lecture 2)**
+
+## **1. Core Theory**
+### **A. Modern Definition of Organic Chemistry**
+*   **The Subject of Carbon:** Organic chemistry is essentially the study of **Carbon compounds**.
+*   **Catenation Property:** Carbon has a unique "Self-linking" ability (Catenation), allowing it to form stable bonds with other carbon atoms in long chains or rings.
+*   **Bonding Versatility:** While carbon-carbon links are primary, it also bonds with other elements like H, O, N, and Cl to create a vast variety of organic compounds.
+
+### **B. Representation Formulas**
+Organic molecules can be represented in multiple ways depending on the requirement of a specific chapter. The primary goal is **Ease of Execution**.
+*   **Bond Line Formula:** A simplified notation where most atoms are hidden for speed and clarity.
+    *   **Rules:**
+        1.  **Do NOT draw C-H bonds**.
+        2.  **Do NOT write the letter 'C'** for carbon atoms.
+        3.  **Vertices and Terminals:** Every sharp turn, corner, or end of a line represents a Carbon atom.
+        4.  **Heteroatoms:** Elements other than Carbon (like O, N, Cl) and the Hydrogens attached to them **must** be explicitly shown (e.g., $-OH$, $-NH_2$).
+
+### **C. Classification of Carbons (Degrees of Carbon)**
+Carbon is classified based on how many other carbon atoms it is **directly** attached to:
+*   **$1^\circ$ (Primary) Carbon:** Attached to **one or zero** other carbons (Note: Methane is treated as $1^\circ$).
+*   **$2^\circ$ (Secondary) Carbon:** Attached to **two** other carbons.
+*   **$3^\circ$ (Tertiary) Carbon:** Attached to **three** other carbons.
+*   **$4^\circ$ (Quaternary) Carbon:** Attached to **four** other carbons.
+
+### **D. Classification of Hydrogens**
+The degree of a hydrogen atom depends entirely on the degree of the carbon it is bonded to:
+*   **$1^\circ$ Hydrogen:** Hydrogens present on a $1^\circ$ carbon.
+*   **$2^\circ$ Hydrogen:** Hydrogens present on a $2^\circ$ carbon.
+*   **$3^\circ$ Hydrogen:** Hydrogens present on a $3^\circ$ carbon.
+*   **Important Case:** There is **no such thing as a $4^\circ$ hydrogen** because a $4^\circ$ carbon already has four bonds with other carbons and cannot bond with hydrogen.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **"Lazy Human" Mental Model:** The teacher explains that humans are lazy by nature; hence, we use Bond Line formulas as a "shorthand" to avoid drawing every single C and H in complex molecules.
+*   **Visualization of Bonds:** In bond-line notation, think of the lines as the "skeleton" of the molecule. Even if you don't see the Hydrogens, they are mentally "filled in" because carbon must complete 4 bonds.
+*   **Determining Degrees:** Imagine placing your pen on a specific carbon. Look only at the **immediate** neighbors. Don't count the "friends of friends"—only direct connections.
+
+---
+
+## **3. Formula Sheet**
+
+| Concept | Key Condition / Shortcut |
+| :--- | :--- |
+| **Bond Line Rule** | $Lines = C-C Bonds$; $Turns/Ends = C atoms$. |
+| **Heteroatom H** | $O-H$, $N-H$ bonds **must** be shown; only $C-H$ is hidden. |
+| **Carbon Degree** | Number of **direct** C-C attachments. |
+| **Hydrogen Degree** | Degree of H = Degree of its Parent Carbon. |
+| **Total H Count** | $\sum (\text{H on } 1^\circ C) + \sum (\text{H on } 2^\circ C) + \dots$. |
+
+---
+
+## **4. Concept Connections**
+*   **Inorganic vs. Organic:** While $CO_2$ contains carbon, it is historically classified as **Inorganic** and is not part of the organic classification logic.
+*   **Valency:** This entire topic relies on Carbon's **Tetravalency** (always forms 4 bonds). If a $2^\circ$ carbon in a bond-line drawing shows only 2 lines, the student must automatically assume 2 hidden Hydrogens are present.
+*   **Isomerism Link:** Drawing bond-line formulas is the first step in identifying structural isomers.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy | Common Mistakes |
+| :--- | :--- | :--- | :--- |
+| **Bond Line to Expanded** | A zigzag line drawing. | Identify all vertices as C. Add H atoms until every C has 4 bonds. | Forgetting to add H to terminal carbons. |
+| **Calculating Degrees** | Molecule provided; asked for $1^\circ, 2^\circ, 3^\circ, 4^\circ$ count. | Mark each C based on direct neighbors. Create a tally table. | Counting double bonds as "two carbons" instead of "one connection." |
+| **H-Type Calculation** | "Find the number of $2^\circ$ Hydrogens." | First find $2^\circ$ carbons. Count the H atoms only on those specific carbons. | Counting H atoms on $4^\circ$ carbons (which is 0). |
+
+---
+
+## **6. Examples and Applications**
+*   **The "Wine Glass" Molecule (Example 11/12):** A complex structure that, when converted to bond-line, resembles a glass with a straw. This demonstrates how bond-line notation simplifies even highly branched systems.
+*   **Urea Synthesis Recap:** Friedrich Wohler (Father of Organic Chemistry) synthesized Urea (Organic) from Ammonium Cyanate (Inorganic).
+*   **Example 18 ($CH_3-CO-CH_2-O-CH_2-CH_3$):**
+    *   $1^\circ$ Carbons: 4; $2^\circ$ Carbons: 1.
+    *   $1^\circ$ Hydrogens: 10; $2^\circ$ Hydrogens: 0 (The $2^\circ$ C is part of a carbonyl group or adjacent to Oxygen, affecting H count).
+
+---
+
+## **7. JEE Advanced Insights**
+*   **The Super-Primary Carbon:** Methane ($CH_4$) and molecules where Carbon is not attached to any other Carbon are still categorized as **$1^\circ$** for JEE purposes. Do not use terms like "Super Degree" unless specified by the latest curriculum.
+*   **Heteroatoms and Degree:** Oxygen and Nitrogen do **not** contribute to the degree of a carbon. If a carbon is attached to one C and one O, it is still a **$1^\circ$ Carbon**.
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Counting Oxygen as a Degree** | Oxygen bonds look like Carbon bonds. | Only count direct **Carbon-to-Carbon** bonds. |
+| **Reporting $4^\circ$ Hydrogen** | Logical extension of $1^\circ, 2^\circ, 3^\circ$. | Realize that a $4^\circ$ Carbon has **zero** room for Hydrogens. |
+| **Missing H on Heteroatoms** | Thinking all H atoms are hidden in bond-line. | Hidden H applies **only to Carbon**. $-OH$ and $-NH$ must show the $H$. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Organic Chemistry** = Carbon Chemistry.
+*   **Bond Line Rules:** No 'C', no 'C-H' shown. Sharp turns = Carbon.
+*   **Carbon Degrees:** $1^\circ$ (1 neighbor), $2^\circ$ (2), $3^\circ$ (3), $4^\circ$ (4).
+*   **Hydrogen Degrees:** Match the carbon they sit on ($4^\circ$ H does not exist).
+
+### **Frequently Tested Patterns**
+*   **Calculating H-types:** Count the H atoms on all carbons of a specific degree.
+    *   *Tip:* $1^\circ$ carbons often have 3 H, $2^\circ$ have 2 H, $3^\circ$ have 1 H (in alkanes).
+*   **Compound Classification:** Identifying that $CO_2$ and metal carbides are inorganic despite having Carbon.
+
+### **Last-Minute Revision Points**
+*   Check for double bonds when counting H; a double bond "uses up" two of Carbon's four bond slots.
+*   Don't be fooled by zigzag lines—count the ends!
+*   **Urea Formula:** $NH_2CONH_2$. It was the first organic compound made in a lab.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Degree of Unsaturation and Saturation (Lecture 3)**
+
+## **1. Core Theory**
+
+### **A. Concept of Saturation and Unsaturation**
+Organic compounds are classified based on their capacity to "add" more Hydrogen atoms.
+*   **Saturated Compounds:** These are compounds where **no more hydrogen atoms can be added**.
+    *   **Alkanes ($C_nH_{2n+2}$):** This is the "saturated" state because n-carbons have their maximum capacity of $2n+2$ hydrogens.
+    *   **Physical Meaning:** Just like a saturated solution cannot dissolve more solute, a saturated compound has no room for more atoms via addition reactions.
+*   **Unsaturated Compounds:** These are compounds where **additional hydrogen atoms can be added**.
+    *   **Alkenes ($C_nH_{2n}$):** Can add 2 Hydrogens to reach the saturated alkane state.
+    *   **Alkynes ($C_nH_{2n-2}$):** Can add 4 Hydrogens to reach the saturated state.
+    *   **Structural Markers:** The presence of double bonds, triple bonds, or rings indicates unsaturation.
+
+### **B. Degree of Unsaturation (DU)**
+**Degree of Unsaturation** (also known as Double Bond Equivalent or DBE) is a measure of the "Hydrogen deficiency" in a molecule relative to its saturated alkane counterpart.
+*   **Fundamental Unit:** The **loss of 2 Hydrogen atoms** from the saturated formula creates **1 Degree of Unsaturation**.
+*   **Structural Components of DU:**
+    *   **1 Pi ($\pi$) Bond** = 1 DU.
+    *   **1 Ring (Cyclic structure)** = 1 DU.
+    *   **1 Triple Bond** = 2 Pi bonds = 2 DU.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **The "Saturated Solution" Analogy:** Think of the carbon skeleton as the "solvent" and hydrogen as the "solute". If the formula allows you to "dissolve" (add) more hydrogen without breaking the carbon chain, the molecule is currently **unsaturated**.
+*   **Why DU works:** Every time you form a bond to close a ring or create a double bond, you must remove two hydrogen atoms to maintain carbon's tetravalency. Therefore, counting "missing" pairs of hydrogens tells you how many rings or pi bonds exist.
+*   **"When you see, see everything":** A key teacher's remark for complex structures—don't just count the pi bonds; look for the rings as well.
+
+---
+
+## **3. Formula Sheet**
+
+| Compound / Group | General Formula | Degree of Unsaturation (DU) |
+| :--- | :--- | :--- |
+| **Alkane** | $C_nH_{2n+2}$ | **0** |
+| **Alkene** | $C_nH_{2n}$ | **1** |
+| **Alkyne** | $C_nH_{2n-2}$ | **2** |
+| **Phenyl ($Ph$) Group** | $C_6H_5-$ | **4** (3 $\pi$ bonds + 1 Ring) |
+| **Benzene** | $C_6H_6$ | **4** (3 $\pi$ bonds + 1 Ring) |
+
+**Calculation Rule:**
+$$DU = (\text{Total Number of } \pi \text{ Bonds}) + (\text{Total Number of Rings})$$
+
+---
+
+## **4. Concept Connections**
+*   **Isomerism Link:** DU is constant for all structural isomers of a given molecular formula. For $C_3H_6$, you can have a double bond (Propene) or a ring (Cyclopropane); both have $DU=1$.
+*   **Inorganic Chemistry Link:** Pi bonds are identified in organic as any bond beyond the first sigma bond in a multiple bond.
+    *   Double bond = $1 \sigma + 1 \pi$.
+    *   Triple bond = $1 \sigma + 2 \pi$.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy | Common Mistakes |
+| :--- | :--- | :--- | :--- |
+| **DU from Structure** | Given a diagram with rings/bonds. | Count every ring as 1 and every $\pi$ bond as 1 (triple = 2 $\pi$). Sum them. | **Forgetting the ring.** Many students count only the double bonds. |
+| **DU with Phenyl Groups** | Presence of "Ph" or Benzene rings. | Treat every **Ph group as DU = 4**. | Forgetting that Benzene has **3 $\pi$ bonds AND 1 ring**. |
+| **DU from Molecular Formula** | Given $C_xH_y$. | Compare to $C_xH_{2x+2}$. Every 2H missing = 1 DU. | Calculating DU as a fraction (It is **never a fraction**). |
+
+---
+
+## **6. Examples and Applications**
+*   **Example: Propene ($C_3H_6$):** Saturated counterpart is $C_3H_8$. It is missing 2H, so **DU = 1**.
+*   **Example 13 (Multiple Heteroatoms):** A structure with $C=C$, $C=O$, $C\equiv C$, and $N\equiv C$.
+    *   $\pi$ bonds: $1 (C=C) + 1 (C=O) + 2 (C\equiv C) + 2 (N\equiv C) + 2 (N\equiv C) = 8$.
+    *   Rings: 0.
+    *   **Total DU = 8**.
+*   **Example 19 (Ph-Ph chains):** A molecule with four $Ph$ groups and one $C=C$ bond.
+    *   DU = $4(Ph) \times 4 + 1 (\text{pi bond}) + 4 (\text{central ring}) = 21$.
+
+---
+
+## **7. JEE Advanced Insights**
+*   **Ph Group Shortcut:** In Advanced-level problems, structures are often condensed using **"Ph"**. Always expand this mentally to a Benzene ring ($DU=4$) to avoid missing multiple pi bonds.
+*   **Stability of DU:** Even if you change the bonding arrangement (structure), as long as the molecular formula is the same, the **DU remains identical**.
+*   **Heteroatoms in DU:** Double bonds between *any* atoms ($C=O, C=N, N=O$) contribute to the pi bond count for DU.
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Counting Ph as 3** | Students only count the 3 double bonds. | A Ph group is a **cyclic** structure; you must add **+1 for the ring**. |
+| **Treating Cl-C as Carbon** | Chlorine starts with 'C'. | $Cl$ is a **Heteroatom**; do not count its 'C' in your carbon chain or degree counts. |
+| **Missing the Central Ring** | In complex fused structures, students focus on the "arms." | **"When you see, see everything."** Check the core of the molecule for hidden rings. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **$DU = \Sigma \pi \text{ bonds} + \Sigma \text{ rings}$**.
+*   **$1 \text{ Triple Bond} = 2 DU$**.
+*   **$1 \text{ Phenyl (Ph) Group} = 4 DU$**.
+*   **$DU$ is never a fraction**.
+
+### **Frequently Tested Patterns**
+*   **JEE Main:** Counting DU in simple cyclic vs. acyclic isomers (e.g., $C_3H_6$ can be a ring or a double bond).
+*   **JEE Advanced:** Finding DU for large molecules containing multiple $Ph$ groups or fused ring systems.
+
+### **Last-Minute Revision Points**
+*   Saturation = Alkane ($C_nH_{2n+2}$).
+*   Loss of 2H = 1 DU.
+*   Benzene/Ph count: 3 Pi + 1 Ring = 4 DU.
+*   Degree of carbon ($1^\circ, 2^\circ, 3^\circ, 4^\circ$) depends on **direct C neighbors** only.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Degree of Unsaturation - Part 2 (Lecture 4)**
+
+## **1. Core Theory**
+
+### **A. Recap & Fundamental Formula**
+*   **Degree of Unsaturation (DU):** Also known as Double Bond Equivalent (DBE) or Index of Hydrogen Deficiency (IHD).
+*   **The Loss Principle:** The loss of **two Hydrogen atoms** from the saturated alkane reference formula ($C_nH_{2n+2}$) generates **1 DU**.
+*   **Mathematical Formula:**
+    $$DU = \frac{\Delta H}{2}$$
+    Where $\Delta H$ is the difference between the number of hydrogens in the saturated reference and the actual molecule.
+
+### **B. Structural Components of DU**
+*   **1 Pi ($\pi$) bond** = 1 DU.
+*   **1 Ring** = 1 DU.
+*   **Multiple Bonds Breakdown:**
+    *   **Single Bond:** Always 1 Sigma ($\sigma$) bond.
+    *   **Double Bond:** $1 \sigma$ bond + **$1 \pi$ bond**.
+    *   **Triple Bond:** $1 \sigma$ bond + **$2 \pi$ bonds**.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+
+### **A. Defining "Number of Rings"**
+The teacher emphasizes that "seeing" rings can be deceptive. A formal definition is required for complex or 3D structures:
+*   **The "Open Chain" Test:** The number of rings is the **minimum number of bonds** that must be broken to convert a cyclic structure into an **open-chain structure** (one with no remaining cycles).
+*   **Mental Model:** If you can make a molecule a straight line by cutting only 2 bonds, it has 2 rings, even if it looks like it has 3 compartments.
+
+### **B. Visualizing the "Circle" in Benzene**
+*   In many diagrams, a circle inside a hexagon represents the benzene system.
+*   **Interpretation:** For calculation, treat that circle as alternating **Single-Double-Single-Double** bonds (Conjugation).
+
+---
+
+## **3. Formula Sheet**
+
+| Scenario | Formula / Rule |
+| :--- | :--- |
+| **From Structure** | $DU = (\text{Total } \pi \text{ bonds}) + (\text{Total Rings})$ |
+| **From } $C_xH_y$ | $DU = \frac{(2x + 2) - y}{2}$ |
+| **Monovalent Atoms** | Treat $F, Cl, Br, I, D, T$ exactly like **Hydrogen** atoms. |
+| **Reference** | Saturated Alkane ($C_nH_{2n+2}$). |
+
+---
+
+## **4. Concept Connections**
+*   **Inorganic Chemistry (IOC) Link:** The detailed formation of $\sigma$ and $\pi$ bonds is studied in Chemical Bonding, but for Organic, the count is the priority.
+*   **Isotopes:** Deuterium ($D$) and Tritium ($T$) are isotopes of Hydrogen. Since they are monovalent, they are treated as $H$ in DU calculations.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy | Common Mistakes |
+| :--- | :--- | :--- | :--- |
+| **Complex 3D Structure** | Cubane or bridged rings. | Method 1: Count bonds to break to open. Method 2: Find molecular formula and use $\Delta H/2$. | Counting "faces" of a cube as rings (A cube has 6 faces but DU is 5). |
+| **Large Fused Rings** | Multiple hexagons joined together. | **Shortcut:** Count Carbons ($C$). If it's a fully conjugated system (like Anthracene), $\pi \text{ bonds} = C/2$. Then add observed rings. | Miscounting carbons at the junctions of rings. |
+| **Formula with Halogens** | $C_6H_6Cl_6$ or similar. | Add the number of Halogens to the number of Hydrogens to get a "Total Monovalent" count. Solve as $C_xH_{Total}$. | Forgetting that Halogens only form one bond (monovalent). |
+
+---
+
+## **6. Examples and Applications**
+
+*   **Example: Cubane ($C_8H_8$)**
+    *   **Logic 1 (Structural):** It takes breaking 5 bonds to make it an open chain. **DU = 5**.
+    *   **Logic 2 (Formula):** 8-carbon alkane is $C_8H_{18}$. $\Delta H = 18 - 8 = 10$. $DU = 10/2 = \mathbf{5}$.
+*   **Example: Benzene-like Large Systems**
+    *   **Naphthalene/Anthracene:** Start at the periphery and alternate Single-Double bonds.
+    *   **Anthracene ($C_{14}H_{10}$):** 14 Carbons $\rightarrow$ 7 Double bonds + 3 Rings = **DU 10**.
+*   **Example: $C_6H_6Cl_6$**
+    *   Treat $Cl$ as $H \rightarrow C_6H_{12}$.
+    *   Alkane reference $C_6H_{14}$. $\Delta H = 2$. **DU = 1**.
+
+---
+
+## **7. JEE Advanced Insights**
+
+*   **The Peripheral Method:** For large aromatic systems, start drawing double bonds from the outer edge (periphery) and move inward to ensure all carbons satisfy tetravalency without missing pi bonds.
+*   **Calculating "Rings" in 3D:** For any polyhedral molecule (like Prismane or Cubane), use the formula $DU = \text{Bonds} - \text{Atoms} + 1$. (Teacher’s logical equivalent: breaking bonds until it's a tree/open structure).
+*   **Non-Carbon Pi Bonds:** $DU$ counts pi bonds between *any* atoms ($C=O, C=N, N \equiv N, C \equiv N$).
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Counting Triple Bond as 1 DU** | Confused with "one multiple bond." | A triple bond has **2 pi bonds**, so it contributes **2 to the DU**. |
+| **Deceptive Rings** | Visually counting shapes. | Use the **"Minimum cuts to open"** rule for complex structures. |
+| **Ignoring Isotopes** | Thinking $D$ or $T$ are different. | $D$ and $T$ are monovalent; add them to the H-count for formula-based DU. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Structural DU** = $\pi$ bonds + Rings.
+*   **Triple Bond** = 2 DU; **Phenyl (Ph)** = 4 DU.
+*   **Cubane DU** = 5.
+*   **Monovalent atoms ($F, Cl, Br, I, D, T$)** = Treat as $H$.
+
+### **Frequently Tested Patterns**
+*   **Structure to DU:** Counting pi bonds in systems like anthracene or phenanthrene.
+*   **Formula to DU:** Calculating $DU$ for $C_xH_y$ with halogens or isotopes.
+
+### **Last-Minute Revision Points**
+*   **$DU = \frac{2C + 2 - (H + X)}{2}$** (where $X$ is Halogens).
+*   If a structure is given, count **every** pi bond and **every** ring.
+*   In large fused aromatics: Count Carbons, divide by 2 for $\pi$ bonds (if fully conjugated), then add number of rings.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+For large fused ring systems where it may be difficult to count every individual pi bond, the shortcut involves **counting the total number of carbon atoms** and using them to determine the maximum possible unsaturation.
+
+According to the source, the step-by-step strategy for these systems (such as Phenanthrene or Anthracene) is as follows:
+
+1.  **Count the total number of Carbon atoms ($C$):** Identify all carbons in the fused system, being careful at the junctions where rings meet.
+2.  **Calculate potential Double Bonds:** Assuming the system is fully conjugated (every carbon is part of a double bond), the number of pi bonds is calculated as **$C/2$**.
+3.  **Count the visible Rings:** Simply count the number of ring compartments shown in the structure.
+4.  **Sum for Total DU:** Add the calculated pi bonds and the visible rings together.
+
+### **Example Application: Phenanthrene/Anthracene**
+In the lecture, a 3-ring fused system is analyzed using this shortcut:
+*   **Carbon Count:** The system is found to have **14 carbons**.
+*   **Pi Bonds:** Dividing the carbon count by 2 gives **7 double bonds**.
+*   **Ring Count:** There are **3 visible rings**.
+*   **Result:** The Degree of Unsaturation (DU) is $7 + 3 = \mathbf{10}$.
+
+The teacher notes that this "Carbon Counting" method is the **easiest and best way** to handle such structures, as it prevents the confusion of trying to manually count overlapping double bonds in complex diagrams.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Degree of Unsaturation & Structural Degrees (Lecture 5)**
+
+## **1. Core Theory**
+
+### **A. Defining Degree of Unsaturation (DOU)**
+Degree Of Unsaturation, also referred to as **Double Bond Equivalent (DBE)** or **Index of Hydrogen Deficiency (IHD)**, is a calculation that determines the number of rings and $\pi$ bonds in a molecule.
+
+### **B. DU Calculation from Molecular Formula**
+The fundamental approach is to compare the given formula with its **saturated alkane counterpart** ($C_nH_{2n+2}$).
+*   **The Formula:** $DU = \frac{\Delta H}{2}$ (where $\Delta H$ is the difference in Hydrogen atoms).
+
+### **C. Rules for Heteroatoms (The "Adjustment" Rules)**
+When a molecular formula contains atoms other than Carbon and Hydrogen, use the following rules to find the "Effective Hydrogen Count":
+
+| Atom Type | Examples | Rule / Strategy |
+| :--- | :--- | :--- |
+| **Monovalent** | $F, Cl, Br, I, D, T$ | **Add** to the Hydrogen count (Treat exactly like $H$). |
+| **Divalent** | $O, S$ | **Neglect** (ignore them) or replace with $CH_2$. |
+| **Trivalent** | $N, P$ | **Subtract 1 Hydrogen** for every Trivalent atom (or replace $NH$ with $CH_2$). |
+| **Tetravalent** | $Si$ | **Replace** with one Carbon atom. |
+
+# N(trivalent) k sath ek hydrogen lo usse NH2 banake usse divalent case bana do
+---
+
+## **2. Intuition and Conceptual Understanding**
+
+### **A. The "Naming Locha" (Naming Absurdity)**
+The teacher introduces the concept of **"Naming Locha"** to explain why some chemical names don't follow modern logic.
+*   **Analogy:** Using "Sachin Ramesh Tendulkar"—the name includes "Ramesh" (his father's name) to show the origin. Similarly, some chemical names include the name of the parent compound even if the structure has changed significantly.
+*   **BHC Example:** Benzene Hexachloride ($C_6H_6Cl_6$) is actually a **saturated cyclohexane ring** with six chlorines. It contains no benzene ring, yet the name persists because it is derived *from* benzene.
+
+### **B. Shortcut vs. Logic**
+While "neglecting" atoms like Oxygen is a fast shortcut, "replacing" them with $CH_2$ is more logically sound and less likely to cause errors in complex structures.
+
+---
+
+## **3. Formula Sheet**
+
+*   **Standard DU:** $DU = (\text{Total } \pi \text{ bonds}) + (\text{Total Rings})$.
+*   **Triple Bond:** $1 \sigma + 2 \pi$ bonds $\rightarrow$ **2 DU**.
+*   **Phenyl Group ($Ph$):** 1 Ring + 3 $\pi$ bonds $\rightarrow$ **4 DU**.
+*   **Benzene ($C_6H_6$):** **4 DU**.
+*   **Carbon-Counting Shortcut (Fused Rings):** For fully conjugated fused systems, $DU = (\frac{\text{Total Carbon Count}}{2}) + \text{Visible Rings}$.
+
+---
+
+## **4. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Strategy | Common Mistakes |
+| :--- | :--- | :--- | :--- |
+| **Large Fused Rings** | Phenanthrene / Anthracene. | Count Carbons ($C$). $DU = (C/2) + \text{rings}$. | Counting overlapping bonds twice. |
+| **3D Polyhedrals** | Cubane ($C_8H_8$), Prismane ($C_6H_6$). | Use the "Minimum bonds to break to open" rule or $\Delta H/2$. | Counting faces as rings. Cubane has **5 rings**, not 6. |
+| **Monovalent Halogens** | Formula includes $F, Cl, Br, I$. | Sum them with Hydrogens. | Treating $Cl$ as an Oxygen-like atom. |
+| **Multi-Phenyl Systems** | Tetraphenylmethane ($Ph_4C$). | $4 \times 4$ (for each $Ph$) = 16. | Forgetting the central Carbon doesn't add DU. |
+
+---
+
+## **5. Examples and Applications**
+
+*   **Example 11 ($C_8H_2F_2Cl_2Br_2D_2$):** Total monovalent atoms = 10. Formula becomes $C_8H_{12}$. Saturated is $C_8H_{18}$. $\Delta H = 6$. **DU = 3**.
+*   **Example 22 ($CO_2$):**
+    *   Method 1 (Replace O with $CH_2$): $C_3H_4$. Saturated is $C_3H_8$. $\Delta H = 4$. **DU = 2**.
+    *   Method 2 (Structure): $O=C=O$. Two $\pi$ bonds. **DU = 2**.
+*   **Example 35 ($N_2H_2$ - Diimide):** Replace $NH$ with $CH_2$. Formula becomes $C_2H_4$. Saturated is $C_2H_6$. $\Delta H = 2$. **DU = 1**.
+
+---
+
+## **7. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Thinking |
+| :--- | :--- | :--- |
+| **DU as a Fraction** | Improper calculation in $C_xH_y$ formula. | DU is always an **integer** (positive whole number). |
+| **Ignoring Trivalent H-loss** | Using Case 1 rules for Nitrogen. | For every N, you must **subtract** one H from the formula before comparing to the alkane. |
+| **Benzene Ring Calculation** | Missing the ring in Benzene. | Benzene is 3 Pi bonds + 1 Ring = **4 DU**. |
+
+---
+
+## **8. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **DU from Structure:** Rings + $\pi$ bonds.
+*   **DU from Formula:** $(2C + 2 + \text{Nitrogen} - \text{Hydrogens} - \text{Halogens}) / 2$.
+*   **Monovalent (H, D, T, Halogens):** All are equivalent.
+*   **BHC (Benzene Hexachloride):** An insecticide with **DU = 1**.
+
+### **Patterns to Watch For**
+*   **Heteroatom Combinations:** Questions like 31 ($C_p H_q O_r X_z$) test your ability to apply multiple cases (Case 1 for $X$, Case 2 for $O$) simultaneously.
+*   **Isomer Counts:** DOU is the first step in determining how many possible cyclic or acyclic isomers a formula can have.
+
+### **Last-Minute Checks**
+*   Does the carbon have 4 bonds? (Tetravalency).
+*   In $Ph_nC$ systems, count 4 DU per phenyl group.
+*   In 3D cages, use the molecular formula method to avoid miscounting rings.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Degree of Unsaturation & Chemical Bonding (Lecture 6)**
+
+## **1. Core Theory**
+
+### **A. Terminologies for Unsaturation**
+The degree of unsaturation is also known by three synonymous names in JEE problems:
+1.  **DU:** Degree of Unsaturation.
+2.  **DBE:** Double Bond Equivalent.
+3.  **IHD:** Index of Hydrogen Deficiency.
+
+### **B. Sigma ($\sigma$) and Pi ($\pi$) Bonds**
+In organic chemistry, bonds are categorized by their nature and count within multiple bonds:
+*   **Single Bond:** Consists of **$1 \sigma$ bond**.
+*   **Double Bond:** Consists of **$1 \sigma$ and $1 \pi$ bond**.
+*   **Triple Bond:** Consists of **$1 \sigma$ and $2 \pi$ bonds**.
+*   **Formation:** The specific orbitals and overlapping required to form these bonds are primarily covered in Inorganic Chemistry (Chemical Bonding), but for Organic, the focus is on the **count** per molecule.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+
+### **A. Decoding Condensed Formulas**
+The teacher emphasizes a "Four-Bond Rule" to decode condensed formulas:
+*   **Carbon’s Tetravalency:** Carbon **must** always form 4 bonds.
+*   **Mental Checklist:** If a carbon atom in a formula doesn't appear to have 4 bonds from visible atoms, it must be forming **multiple bonds** (double or triple) with the next atom in the chain to satisfy its valency.
+
+### **B. The "Hydrogen Deficit" in Line Formulas**
+*   **Common Trap:** Students often forget that line formulas do not explicitly show Carbon-Hydrogen ($C-H$) bonds.
+*   **Intuition:** Every vertex is a carbon. Subtract the number of visible bonds from 4 to find the "hidden" hydrogens. These hidden hydrogens **must** be counted for total Sigma bonds.
+
+---
+
+## **3. Formula Sheet**
+
+| Topic | Formula / Rule |
+| :--- | :--- |
+| **DU from Formula** | $DU = \frac{(2C + 2) + N - (H + X)}{2}$ |
+| **Phenyl ($Ph$) Group** | $1 \text{ Ring} + 3 \pi \text{ bonds} = \mathbf{4 DU}$ |
+| **Benzene ($C_6H_6$)** | $1 \text{ Ring} + 3 \pi \text{ bonds} = \mathbf{4 DU}$ |
+| **Prismane ($C_6H_6$)** | A cyclic structure with **$DU = 4$**. |
+| **Borazine ($B_3N_3H_6$)** | $DU = 1$ (if $B, N$ are Trivalent); $DU = 4$ (if $B, N$ are Tetravalent). |
+
+---
+
+## **4. Concept Connections**
+
+*   **Isomerism:** Prismane ($C_6H_6$) and Benzene ($C_6H_6$) have the same molecular formula and the same $DU=4$, making them structural isomers.
+*   **Inorganic Chemistry (IOC):** The valency of Boron and Nitrogen (trivalent vs. tetravalent) directly changes the DU calculation, linking organic structural logic with inorganic bonding rules.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy | Common Mistakes |
+| :--- | :--- | :--- | :--- |
+| **$\sigma/\pi$ in Line Formula** | A zigzag drawing with multiple bonds. | 1. Count $\pi$ bonds directly. 2. Calculate $\sigma$ = (Sum of $C-C$ bonds) + (Sum of hidden $H$). | Forgetting hydrogens at the terminals and sharp turns. |
+| **$Ph_nC_m$ Systems** | Formulas like $Ph_6C_2$. | Use $4 \times (\text{Number of } Ph)$ and check the central carbon-carbon bond for extra $\pi$ bonds. | Only counting the $Ph$ groups and missing the central double/triple bond. |
+| **Complex Fused Rings** | Multiple hexagons sharing sides. | Count total carbons. Pi bonds = $C/2$ (if fully conjugated). Add number of rings. | Counting hydrogens at the "junctions" where carbon already has 4 bonds. |
+
+---
+
+## **6. Examples and Applications**
+
+*   **Example: $Ph_4C_2$ (Tetraphenylethylene)**
+    *   **Structure:** Two carbons connected by a double bond, each carrying two $Ph$ groups.
+    *   **DU:** $4 \times 4 (Ph) + 1 (\text{central } \pi \text{ bond}) = \mathbf{17}$.
+*   **Example: $Ph_2C_2$ (Diphenylacetylene)**
+    *   **Structure:** Two carbons connected by a triple bond, each carrying one $Ph$ group.
+    *   **DU:** $2 \times 4 (Ph) + 2 (\text{central } \pi \text{ bonds}) = \mathbf{10}$.
+*   **Example: Naphthalene ($\sigma/\pi$ count)**
+    *   **$\pi$ bonds:** 5.
+    *   **$\sigma$ bonds:** 11 ($C-C$) + 8 ($C-H$) = **19**.
+
+---
+
+## **7. JEE Advanced Insights**
+
+### **A. The Borazine Case ($B_3N_3H_6$)**
+*   This is known as **Inorganic Benzene**.
+*   If the question specifies $B$ and $N$ are **tetravalent** (acting like Carbon), the DU is **4** (identical to Benzene).
+*   If nothing is mentioned, assume standard **trivalent** nature, resulting in $DU = 1$.
+
+### **B. Cubane & Prismane Systems**
+*   **Prismane ($C_6H_6$):** Despite its strange 3D shape, it has $DU=4$. Breaking 4 bonds is the minimum required to make it an open chain.
+*   **Combined Systems:** For fused cubes/prisms, the faces shared between them are only counted **once**. For two fused cubes, $DU = 5 + 4 + 2 = 11$ (calculated via formula or shared faces).
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **$H$ at Junctions** | Assuming every vertex in a ring has an $H$. | Check valency. If a carbon has 4 visible bonds in a fused ring, it has **zero** hydrogens. |
+| **$Ph_6C_2$ Count** | Calculating it as $24$. | This is correct ($6 \times 4$), but students often struggle to visualize the central single bond between the two carbons. |
+| **BHC Misconception** | Assuming Benzene Hexachloride has a benzene ring. | It is a **cyclohexane ring**; its DU is **1**, not 4. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **$DU = \text{Rings} + \pi \text{ Bonds}$**.
+*   **$1 Ph = 4 DU$**.
+*   **$1 \text{ Triple Bond} = 2 \pi$ bonds**.
+*   **$N_2H_2$ (Diimide):** $DU = 1$.
+*   **$BHC$ ($C_6H_6Cl_6$):** $DU = 1$.
+
+### **Frequently Tested Patterns**
+*   **Formula to $\sigma/\pi$:** Converting a molecular formula or line structure into total bond counts.
+*   **3D Structures:** Calculating DU for prisms and cubes using the "bonds to break" method.
+
+### **Last-Minute Revision Points**
+*   **Isotopes ($D, T$):** Treat them exactly like Hydrogen in all DU and Sigma bond counts.
+*   **Sulphur ($S$):** If not mentioned otherwise, treat as **Bivalent** (like Oxygen) and neglect in DU calculations.
+*   **Sigma Bonds:** Don't forget to count the $C-H$ bonds in line formulas!
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Functional Groups & IUPAC Introduction (Lecture 7)**
+
+## **1. Core Theory**
+
+### **A. Definition of Functional Group (FG)**
+*   **The "Worker" of the Molecule:** A functional group is the specific segment of an organic compound responsible for its **chemical properties**.
+*   **Compound Architecture:** Most organic molecules consist of two parts:
+    1.  **Functional Group:** Governs chemical reactivity.
+    2.  **Hydrocarbon Part ($R$):** Primarily governs **physical properties** (boiling point, solubility, etc.).
+
+### **B. Alkanes: The "No-Function" Compounds**
+*   Alkanes ($CH_4$, $C_2H_6$, etc.) are the **most stable** category of organic compounds because they **lack a functional group**.
+*   **Reactivity:** Under normal conditions, Alkanes + Anything = **No Reaction**. They only react under "drastic" conditions like high temperature or combustion.
+
+### **C. The Concept of "R" (Alkyl Groups)**
+*   The symbol **$R$** represents a carbon-containing segment (methyl, ethyl, phenyl, etc.).
+*   **Important Constraint:** In general notation, $R$ must contain carbon; it cannot be an atom with lone pairs like Oxygen or Nitrogen unless specified.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **The "Function" Analogy:** The teacher explains that a functional group is named such because it is the part that "functions" (reacts) during a chemical process.
+*   **Anhydride Logic:** "Anhydride" literally means "without water." In chemistry, removing water from acid molecules creates an **Acid Anhydride**.
+*   **The "Water Trap":** If you replace the $R$ group in an alcohol ($R-OH$) or ether ($R-O-R$) with Hydrogen, you no longer have an organic functional group; you simply have **Water ($H_2O$)**.
+
+---
+
+## **3. Comprehensive Functional Group Sheet**
+
+| Priority/Order | Functional Group Name | Structural Representation | Key Remarks / Smallest Member |
+| :--- | :--- | :--- | :--- |
+| 1 | **Carboxylic Acid** | $-COOH$ | Formic Acid/Ant acid ($HCOOH$), Acetic Acid/Vinegar ($CH_3COOH$). |
+| 2 | **Acid Anhydride** | $(RCO)_2O$ | Formed by $2 \times \text{Acid} - H_2O$. |
+| 3 | **Ester** | $R-COOR'$ | **Fruity smell.** $R'$ cannot be $H$ (else it's an acid). |
+| 4 | **Acid Halide** | $-COX$ | $X = F, Cl, Br, I$. Carbonyl attached to Halogen. |
+| 5 | **Acid Amide** | $-CONH_2$ | Classified as $1^\circ, 2^\circ, 3^\circ$ based on $N$ substitution. |
+@ photo - amide.png
+| 6 | **Cyanide** | $-C \equiv N$ | Also called Nitriles. |
+| 8 | **Aldehyde** | $-CHO$ | Smallest: Formaldehyde ($HCHO$). |
+| 9 | **Ketone** | $-CO-$ | **Min. 3 carbons required** (Smallest: Acetone). |
+| 10 | **Alcohol** | $-OH$ | $R$ must be carbon-based. |
+| 11 | **Thiol** | $-SH$ | Sulfur version of alcohol. |
+| 12 | **Amine** | $-NH_2$ | $1^\circ, 2^\circ, 3^\circ$. Carbon must be $sp^3$ (singly bonded). |
+@ photo - amine.png
+| 13 | **Ether** | $R-O-R'$ | **Min. 2 carbons required.** No $H$ on either side. |
+| 14 | **Nitro / Nitrite** | $-NO_2 / -ONO$ | Nitro is $C-N$ bond; Nitrite is $C-O$ bond. |
+| 15 | **Alkene / Alkyne** | $C=C / C \equiv C$ | Considered functional groups in IUPAC. |
+| 7 | **Isocyanide** | $-NC$ | Linked via Nitrogen. |
+# halogen -CX
+# imine -C=N-
+# oxime -C=N-OH
+# diazo -N=N-
+@ photo - fg.png
+
+---
+
+## **4. Problem-Solving Framework**
+
+### **A. Identifying $1^\circ, 2^\circ, 3^\circ$ Amides and Amines**
+| Degree | Amide Identification ($R-CO-N...$) | Amine Identification ($R-N...$) |
+| :--- | :--- | :--- |
+| **$1^\circ$ (Primary)** | $-CONH_2$ (Two $H$ on $N$) | $-NH_2$ (Two $H$ on $N$) |
+| **$2^\circ$ (Secondary)** | $-CONHR$ (One $H$ on $N$) | $-NHR$ (One $H$ on $N$) |
+| **$3^\circ$ (Tertiary)** | $-CONR_2$ (Zero $H$ on $N$) | $-NR_2$ (Zero $H$ on $N$) |
+
+### **B. Counting "Different" Functional Groups**
+*   **Strategy:** If a group (like Ketone) appears twice, count it as **one** type of functional group.
+*   **Trap:** Look closely at Oxygen atoms. An Oxygen between two carbons is **Ether**, but an Oxygen part of a $-COO-$ link is **Ester**.
+
+---
+
+## **5. Examples and Applications (DU Homework Review)**
+*   **Q45: $Ph-C \equiv C-CH=C=CH_2$**
+    *   Logic: $Ph (4) + Triple (2) + 2 \times Double (2) = \mathbf{8}$.
+*   **Q46: $(CH_3)_2CH-C(CH_3)_3$**
+    *   Logic: Fully saturated open chain. **DU = 0**.
+*   **Q49: $Ph_3C-C \equiv C-C \equiv C-CPh_3$**
+    *   Logic: $6 \times Ph (24) + 2 \times Triple (4) = \mathbf{28}$.
+*   **Example (Complex Identification):** A molecule with a Ketone, Ether, Ester, and Carboxylic Acid contains **4 Different Functional Groups**.
+
+---
+
+## **6. JEE Advanced Insights**
+*   **Amide vs. Amine Distinction:** In Amides, the Nitrogen is attached to a **Carbonyl Carbon ($C=O$, $sp^2$)**. In Amines, it is attached to an **$sp^3$ Carbon**.
+*   **The Isocyanide Bond:** Satisfies Carbon's valency through a coordinate/detive bond ($N \to C$).
+*   **Acid Derivatives:** Anhydrides, Esters, Amides, and Acid Halides are all considered "derivatives" of Carboxylic Acids because they can be conceptually formed from them.
+
+---
+
+## **7. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Thinking |
+| :--- | :--- | :--- |
+| **$R-OH$ where $R=H$** | Thinking it's the first alcohol. | If $R=H$, it's **Water**, not an alcohol. |
+| **$R-O-R$ where $R=H$** | Thinking it's an ether. | If $R=H$, it's an **Alcohol** or **Water**. |
+| **Aldehyde vs. Ester** | Both have $C=O$ and $O$. | If the $C=O$ is directly bonded to $H$, it's **Aldehyde**. If bonded to $-OR$, it's **Ester**. |
+| **Ketone with 2 Carbons** | Not checking valency. | A Ketone requires a $C=O$ between **two carbons**, so min. 3 carbons total. |
+
+---
+
+## **8. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Functional Group = Chemical Identity.**
+*   **Smallest Ether:** Dimethyl Ether (2 Carbons).
+*   **Smallest Ketone:** Acetone (3 Carbons).
+*   **Primary ($1^\circ$) Amine/Amide:** Always has an **$-NH_2$** group.
+
+### **Frequently Tested Patterns**
+*   **Counting Functional Groups:** Distinguishing between different types in a multi-functional molecule.
+*   **Degree of Amine/Amide:** JEE often traps students by asking the degree of a Nitrogen atom in a complex structure.
+
+### **Last-Minute Revision Points**
+*   $Ph$ group DU = 4.
+*   $CN$ group DU = 2.
+*   Alkanes have **NO** functional group.
+*   **Vinegar** = Acetic Acid; **Formic Acid** = Ant Acid.
+--------------------------------------------------------------------------------------------------------------------------
+@ photo - hw
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Functional Group Classification & Homologous Series (Lecture 8)**
+
+## **1. Core Theory**
+
+### **A. Refined Functional Group (FG) Classification**
+The lecture focuses on crucial distinctions between groups that look similar but are chemically distinct.
+
+*   **Acid Amides ($1^\circ, 2^\circ, 3^\circ$):** These are considered "three different functional groups",.
+    *   **Primary ($1^\circ$):** $R-CONH_2$.
+    *   **Secondary ($2^\circ$):** $R-CONHR'$.
+    *   **Tertiary ($3^\circ$):** $R-CONR'R''$.
+*   **Amines ($1^\circ, 2^\circ, 3^\circ$):** These are also considered "three different functional groups".
+    *   **Primary ($1^\circ$):** $R-NH_2$.
+    *   **Secondary ($2^\circ$):** $R-NH-R'$.
+    *   **Tertiary ($3^\circ$):** $R-N(R')R''$.
+*   **Alcohols vs. Phenols (Aromatic Alcohols):**
+    *   **Aromatic Alcohol:** $OH$ is **directly attached** to a Benzene/Aromatic ring.
+    *   **Aliphatic Alcohol:** $OH$ is attached to a non-aromatic carbon chain or ring.
+    *   **Crucial Insight:** Aromatic and Aliphatic alcohols are treated as **different functional groups** in identification problems.
+@ photo - alcohol
+
+### **B. The Case of Alcohols (Degrees)**
+Unlike Amines and Amides, the degrees of Alcohol ($1^\circ, 2^\circ, 3^\circ$) are considered the **same functional group**,.
+*   The bonding environment of the $-OH$ group remains functionally identical across degrees.
+*   **Classification Basis:** Based on the degree of the carbon atom to which the $-OH$ is attached,.
+# if an -OH is bonded to a 2^\circ carbon it will be called a 2^\circ alcohol.
+
+### **C. Homologous Series**
+A series of organic compounds that follow a specific pattern.
+1.  **General Formula:** All members can be represented by the same General Formula with a single variable ($n$).
+2.  **Functional Group:** All members **must have the same functional group** and same chemical properties.
+3.  **The $CH_2$ Rule:** In hydrocarbon-based series, adjacent members differ by a **$CH_2$ unit** and a molecular mass of **14g**, it's not necessary for a homonologous series as CF4, CF3CF3, CF3CF2CF3 are members of homologous series.
+4.  **Adjacent homologous:** Adjacent members of a homologous series are called adjacent homologues.
+5.  **Physical properties:** Homologues have a gradual change in physical properties.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **"Same Appearance, Different Soul":** The teacher warns that "every $OH$ looking thing is not an alcohol". The environment (aromatic vs. aliphatic) fundamentally changes the chemistry.
+*   **Homolog Identification:** To find the General Formula, the teacher recommends going to the "GF of Alkanes" ($C_nH_{2n+2}$) and "stealing" an $H$ to insert the functional group.
+*   **Chemical vs. Physical Properties:** Homologs have **similar chemical properties** (due to the same FG) but **different physical properties** (due to the varying carbon chain length),.
+
+---
+
+## **3. Formula Sheet**
+
+| Category | General Formula (GF) | n-Value / Smallest Member |
+| :--- | :--- | :--- |
+| **Alkane** | $C_nH_{2n+2}$ | $n \ge 1$ |
+| **Alkene** | $C_nH_{2n}$ | $n \ge 2$ |
+| **Alcohol** | $C_nH_{2n+1}OH$ | $n \ge 1$ |
+| **Carboxylic Acid** | $C_nH_{2n+1}COOH$ | $n \ge 0$ (Formic Acid) |
+| **Per-fluorinated Alkanes**| $C_nF_{2n+2}$ | Example of non-hydrocarbon series |
+
+---
+
+## **4. Concept Connections**
+*   **Bond Line Notation:** In molecules like aldehydes, the terminal $H$ might not be shown, but its presence is implied to complete carbon's valency.
+*   **Isomerism:** $1^\circ, 2^\circ, 3^\circ$ amines are functional isomers because they have the same formula but represent different functional groups,.
+*   **Aromaticity Link:** Identifying aromatic alcohols requires recognizing the "circle" or alternating double bonds in a benzene ring.
+
+---
+
+## **6. Examples and Applications**
+*   **Non-Homolog Trap,:**
+    *   $CH_3CH_2NH_2$ ($1^\circ$ Amine) and $CH_3CH_2N(CH_3)_2$ ($3^\circ$ Amine) are **NOT** homologs because they have different functional groups, even if they fit a similar formula.
+
+---
+
+## **7. JEE Advanced Insights**
+*   **Hetero-Homologous Series:** Homologous series are not limited to hydrocarbons. A series like $CF_4, C_2F_6, C_3F_8$ is a valid homologous series because it follows a common GF ($C_nF_{2n+2}$) and shares chemical characteristics,.
+*   **Isocyanide Connectivity:** In a skeletal structure, if the Ring connects to Nitrogen ($Ring-NC$), it is an **Isocyanide**. If it connects to Carbon ($Ring-CN$), it is a **Cyanide**.
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Counting Alcohols as Different FGs** | Over-applying the Amine/Amide rule. | **Alcohols are the same FG** regardless of degree ($1^\circ, 2^\circ, 3^\circ$),. |
+| **Treating Benzyl Alcohol as Aromatic** | Seeing the Benzene ring. | Check if $OH$ is **directly** on the ring. If there is a $CH_2$ in between, it is Aliphatic. |
+| **Missing the "Anhydride"** | Seeing two $C=O$ groups and an $O$. | Recognize the $R-CO-O-CO-R$ pattern as a single Acid Anhydride group. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Different FGs:** $1^\circ/2^\circ/3^\circ$ Amine; $1^\circ/2^\circ/3^\circ$ Amide; Alcohol vs. Phenol; Cyanide vs. Isocyanide,,,.
+*   **Same FG:** $1^\circ/2^\circ/3^\circ$ Alcohol.
+*   **Homolog Requirements:** Same GF + Same Functional Group,.
+*   **Adjacent Homolog Difference:** $CH_2$ or $14$ mass units.
+
+### **Frequently Tested Patterns**
+*   **Functional Group Counting:** Identifying unique types in drugs or complex bio-molecules.
+*   **Homologous Series Validation:** Distinguishing between structural isomers (which aren't necessarily homologs) and true homologs.
+
+### **Last-Minute Revision Points**
+*   **Formaldehyde** ($HCHO$) is the smallest aldehyde ($n=1$).
+*   **Formic Acid** ($HCOOH$) is the smallest acid ($n=0$ in $C_nH_{2n+1}COOH$ formula).
+*   Check Carbon valency (4) to identify hidden Aldehyde $H$ or Ketone structures.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Classification & Introduction to IUPAC Nomenclature (Lecture 9)**
+
+## **1. Core Theory**
+
+### **A. Functional Group Priority Review**
+For IUPAC naming, functional groups follow a specific seniority order. In multi-functional compounds, the highest priority group is the Principal Functional Group (PFG).
+**The Priority Order:**
+1.  Carboxylic Acid ($-COOH$)
+2.  Acid Anhydride ($(RCO)_2O$)
+3.  Ester ($-COOR$)
+4.  Acid Halide ($-COX$)
+5.  Acid Amide ($-CONH_2$)
+6.  Cyanide ($-CN$)
+7.  Aldehyde ($-CHO$)
+8.  Ketone ($-CO-$)
+9.  Alcohol ($-OH$)
+10. Thiol ($-SH$)
+11. Amine ($-NH_2$)
+
+### **B. Classification of Organic Compounds**
+Organic compounds are categorized based on their carbon skeleton:
+
+| Main Category | Sub-Category | Definition / Characteristics |
+| :--- | :--- | :--- |
+| **Acyclic / Open Chain** | **Saturated** | Only single bonds ($C-C$). No $\pi$-bonds. |
+| | **Unsaturated** | Contains at least one double or triple bond ($\pi$-bonds). |
+| **Cyclic / Closed Chain** | **Homocyclic (Carbocyclic)** | The ring consists **only** of Carbon atoms. |
+| | **Heterocyclic** | The ring contains at least one atom other than Carbon (O, N, S, etc.). |
+| | **Alicyclic** | Cyclic compounds that behave like aliphatic (open chain) compounds. |
+| | **Aromatic** | Specialized stable rings (e.g., Benzene). Detailed in GOC. |
+@ photo - classification1.png
+@ photo - classification2.png
+
+# IUPAC : International Union of  Pure and Applied Chemistry.
+
+### **C. Structural Components of an IUPAC Name**
+An organic name is constructed using a maximum of five segments:
+$$[2^\circ \text{ Prefix}] + [1^\circ \text{ Prefix}] + [\text{Word Root}] + [1^\circ \text{ Suffix}] + [2^\circ \text{ Suffix}]$$
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **The "Name" Analogy:** The teacher compares IUPAC names to human names (e.g., *Mr. Sachin Ramesh Tendulkar*).
+    *   **Prefixes:** Like "Mr." or initials (describe side chains).
+    *   **Word Root:** Like the first name (the core identity/carbon count).
+    *   **Suffix:** Like the surname (the main functional family).
+*   **The "Shree" Analogy (Bis/Tris):** If a person's name already contains "Shree" (like *Shreesanth*), adding another "Shree" for respect creates confusion (*Shree Shreesanth*). Similarly, if a side chain already has "di" or "tri" in its name, we use **Bis** or **Tris** to avoid linguistic clutter.
+*   **Hetero- vs. Homo-:** "Homo" means same (only Carbon). "Hetero" means different (Carbon + intruder). Crucially, the "intruder" atom must be **part of the ring** to be heterocyclic; if it is outside the ring, the compound remains homocyclic.
+
+---
+
+## **The 2° Prefix (Substituents)**
+        It is used for naming of side-chain of substituents.
+| Substituent | IUPAC 2° Prefix |
+| :--- | :--- |
+| $-F, -Cl, -Br, -I$ | Fluoro, Chloro, Bromo, Iodo |
+| $-CH_3$ (Me) | Methyl | | $-C_2H_5$ (Et) | Ethyl | | $-C_3H_7$ (Pr) | Propyl |
+| $-NO_2$ | Nitro |
+| $-OH$ | Hydroxy |
+| $-OR$ | Alkoxy (e.g., Methoxy) |
+        A compound may or may not have a 2° Prefix.
+Rules:
+    i) Always written in alphabetic order.
+On multiple different side chains (e.g., Cl, Br). | Use **Alphabetical Order**. Ignore numerical prefixes (di/tri) when deciding the order. |
+    ii) Always written with their respective position
+Every single substituent must have a position (number) assigned, even if they are on the same carbon (e.g., $1,1\text{-dichloro}$ vs just $dichloro$).
+    iii) If name of side chain itself contains di, tri, tetra etc. then on repetition of such side chains we don't use di, tri.
+        di --> bis                       tri --> tris
+        tetra --> tetrakis          penta --> pentakis
+If a complex substituent like "dimethylamine" appears twice, use **Bis(dimethylamine)** instead of "didimethylamine" to ensure clarity.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: IUPAC Nomenclature – The Five-Part Name (Lecture 10)**
+
+## **1. Core Theory**
+### **B. Primary (1°) Prefix: Nature of the Principal Chain (PC)**
+The 1° Prefix describes the cyclic or acyclic nature of the main carbon chain:
+*   **Acyclic/Open Chain:** No 1° Prefix is used.
+*   **Cyclic (Single Ring):** Use the prefix **"Cyclo"**.
+*   **Bicyclic:** Use **"Bicyclo"** if at least two rings share **"at least two common atoms"** between atleast two rings.
+*   **Spiro:** Use **"Spiro"** if exactly **one atom is common** between at least two rings.
+# jee k syllabus m bicyclio aur spiro nahi h sirf single ring wale h
+
+### **C. Word Root: Carbon Count**
+Indicates the number of carbon atoms in the Principal Chain (PC).
+*   **1–10:** Meth, Eth, Prop, But, Pent, Hex, Hept, Oct, Non, Dec.
+*   **11–20:** Undec, Dodec, Tridec, Tetradec, Pentadec, Hexadec, Heptadec, Octadec, Nonadec, **Icos**.
+*   **30, 40, 50, 100:** Triacont, Tetracont, Pentacont, **Hect**.
+
+### **D. Primary (1°) Suffix: Bonding Nature**
+Describes the saturation or unsaturation within the PC (nature of C-C bond):
+*   **If all C-C Single Bonds:** **-ane**.
+*   **If any one Double Bond:** **-ene**.
+*   **If any one Triple Bond:** **-yne**.
+Note:
+    i) If more than one double/triple bond is present then use di, tri, tetra etc.
+    ii) 1° suffix is always written with their position.
+    iii) 1° suffix is also written in alphabetical order (ene than yne).
+    iv) If 1° suffix contains di, tri, tetra etc. then additional 'a' is added in word root. (i.e. Wood root --> metha, etha, propa, buta, penta etc.)
+    v) If 2° suffix start with a vowel then last 'e' is eliminated or dropped from 1° suffix. (i.e. ene --> en, yne --> yn)
+
+### **E. Secondary (2°) Suffix: The Principal Functional Group**
+Used for the "Boss" or the highest priority functional group in the molecule. All other functional groups are treated as substituents (2° Prefixes).
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **The "Human Name" Analogy:** An IUPAC name is structured like a full name (e.g., *Mr. Sachin Ramesh Tendulkar*). The Word Root is the core identity, Prefixes are like titles/initials, and Suffixes are like surnames.
+*   **The "Boss" (PFG) Concept:** In a compound with multiple functional groups (e.g., Acid, Alcohol, Ketone), you must identify the highest priority group from the priority table. This group is the **"Boss"** (Principal Functional Group) and takes the 2° Suffix. Everyone else is a "side-kick" (side chain) and takes a 2° Prefix.
+
+---
+
+### **Functional Group Priority & Names (Condensed)**
+| Priority | Group | 2° Prefix (Side Chain) | 2° Suffix (Boss) |
+| :--- | :--- | :--- | :--- |
+| 1 | Carboxylic Acid | Carboxy | -oic acid / Carboxylic acid |
+| 3 | Ester | Alkoxycarbonyl / Alkanoyloxy | -oate / Carboxylate |
+| 5 | Acid Amide | Carbamoyl | -amide / Carboxamide |
+| 6 | Cyanide ($-CN$) | Cyano | -nitrile / Carbonitrile |
+| 7 | Aldehyde | **Oxo / Formyl** | -al / Carbaldehyde |
+| 8 | Ketone | Oxo | -one |
+| 9 | Alcohol | Hydroxy | -ol |
+| 11 | Amine | Amino | -amine |
+@ photo - iupac1
+@ photo - iupac2
+@ photo - iupac3
+
+---
+
+## **4. Concept Connections**
+*   **Isomerism:** $1^\circ, 2^\circ$, and $3^\circ$ **Amines** and **Amides** are considered **different functional groups**. Therefore, their 2° Suffix remains the same (-amine or -amide), but their structural identity changes.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Step | Action | Logic / Shortcut |
+| :--- | :--- | :--- |
+| **1. Identify PFG** | Look at all functional groups; pick the one highest on the priority list. | This is your **Boss**. |
+| **2. Select Main Chain** | Must include the Boss, maximum multiple bonds, and max carbons. | This determines the **Word Root**. |
+| **3. Numbering** | Give the Boss the lowest possible number. | Then follow the lowest locant for multiple bonds and substituents. |
+| **4. Assemble Name** | $2^\circ P + 1^\circ P + WR + 1^\circ S + 2^\circ S$ | Follow alphabetical order for 2° Prefixes. |
+
+---
+
+## **6. Examples and Applications**
+*   **Example: Ester Naming Complexity**
+    *   If PC is connected to the **Carbon** of the ester: **alkoxycarbonyl**.
+    *   If PC is connected to the **Oxygen** of the ester: **alkanoyloxy**.
+*   **Example: Aldehyde Prefixes**
+    *   **Oxo:** Used when the Carbon of $-CHO$ is counted in the main chain.
+    *   **Formyl:** Used when the Carbon of $-CHO$ is **not** counted in the main chain.
+
+---
+
+## **7. JEE Advanced Insights**
+*   **Non-Suffix Groups:** Groups like **Ether (alkoxy)**, **Halides (halo)**, and **Nitro (nitro)** have **no IUPAC suffix**. They are *always* treated as substituents (2° Prefixes) regardless of the molecule.
+*   **Positional Requirement:** 1° Suffixes (-ene, -yne) must **always** be written with their position (e.g., 1-ene, 2-yne).
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Priority:** Acid > Anhydride > Ester > Halide > Amide > Cyanide > Aldehyde > Ketone > Alcohol > Amine.
+*   **Spiro:** 1 common atom; **Bicyclo:** 2+ common atoms.
+*   **Word Roots:** 10 (Dec), 11 (Undec), 12 (Dodec), 20 (Icos).
+
+### **Frequently Tested Patterns**
+*   **Alphabetical order** of substituents in the 2° Prefix (e.g., Bromo before Chloro).
+*   **Vowel rule** application for dropping the terminal 'e' of alkanes/alkenes.
+
+### **Last-Minute Revision Points**
+*   Check if **"a"** needs to be added to the Word Root (for diene/diyne).
+*   Ensure **Ethers and Nitro** groups are never given a suffix.
+*   Aldehyde **Oxo vs. Formyl** based on Carbon inclusion.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Rules for Selection and Numbering (Lecture 11)**
+
+## **1. Core Theory: The Five-Part IUPAC Structure**
+As a quick revision, every IUPAC name is constructed from five segments:
+*   **2° Prefix:** Name of side chains/substituents.
+*   **1° Prefix:** Indicates if the chain is open, cyclic, bicyclic, or spiro.
+*   **Word Root:** Number of carbon atoms in the Principal Chain (PC).
+*   **1° Suffix:** Nature of bonds (\\(-ane\\) for single, \\(-ene\\) for double, \\(-yne\\) for triple).
+*   **2° Suffix:** Dedicated to the **Boss** (Main Functional Group).
+
+---
+
+## **2. Rules for Selection of Principal Chain (PC)**
+The teacher emphasizes that while the "longest chain" is a common rule, it is secondary to the presence of functional groups and multiple bonds.
+
+### **A. The Priority Order: F-M-S Rule**
+To select the correct Principal Chain, follow the **"Father-Mother-Son" (F-M-S)** priority sequence:
+1.  **F (Functional Group):** The chain must include the **"Main Functional Group (Boss)"**.
+2.  **M (Multiple Bonds):** If multiple chains have the Boss, choose the one with the maximum number of double or triple bonds.
+3.  **S (Side Chains/Substituents):** If the above are equal, choose the chain with the most side chains.
+
+### **B. Tie-Breaker for Longest Chains**
+In cases of hydrocarbons alkanes where there are no functional groups or multiple bonds:
+*   **Step 1:** Select the longest possible carbon chain.
+*   **Step 2:** If there are two or more chains of the same maximum length, select the one with the **highest number of side chains**.
+
+---
+
+## **3. Rules for Numbering the Principal Chain**
+Once the PC is selected, it must be numbered to define the positions of groups.
+
+### **A. The Terminal Rule**
+Numbering **always** starts from one terminal and moves toward another terminal. You cannot start numbering from the middle of a chain.
+
+### **B. Numbering Priority (F-M-S)**
+The numbering must follow the same priority as selection to ensure the most important groups get the **least (minimum) number**:
+1.  **Boss (Main FG):** Must get the lowest possible number.
+2.  **Multiple Bonds:** If the Boss is absent or numbering is tied, give the lowest number to double/triple bonds.
+3.  **Side Chains:** Used as the last priority for numbering.
+
+### **C. Terminal Functional Groups**
+Certain functional groups contain a carbon atom that is usually part of the terminal. These **always get number 1**:
+*   \\(-COOH\\), \\(-CHO\\), \\(-CN\\), \\(-CONH_2\\), \\(-COOR\\), \\(-COX\\).
+*   *Note:* Because they are always at position 1, their position is often omitted in the final IUPAC name.
+
+---
+
+## **4. Advanced Numbering Rules**
+
+### **A. Lowest Locant Rule**
+This is the "ultimate weapon" for numbering.
+*   **The Method:** Compare the sets of locants (positions) from both ends. The set that has the **lower number at the first point of difference** is selected.
+*   **Teacher's Warning:** Do **NOT** sum the numbers (e.g., \\(2+2+3\\)). Simply look for the first instance of a smaller number.
+
+### **B. Alphabetical Order (The Last Resort)**
+If numbering from both sides yields the **exact same set of locants** (e.g., 3, 4, 5 from both ends), use alphabetical order.
+*   *Example:* If a Bromine and Chlorine are at equivalent positions, Bromine (B) gets priority over Chlorine (Cl).
+*   *Double vs. Triple Bond:* If both are at equivalent positions (e.g., 1 and 4), the **Double bond (-ene)** gets priority over the **Triple bond (-yne)** because 'e' comes before 'y'.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy | Common Mistakes |
+| :--- | :--- | :--- | :--- |
+| **PC Selection** | Multiple branching options. | Follow **F > M > S**. Maximize Boss, then Multiple Bonds, then chain length. | Choosing the longest chain while leaving out a double bond. |
+| **PC Tie** | Two chains of equal length. | Select the one with the **most side chains**. | Choosing the "straighter" looking chain regardless of branches. |
+| **Numbering** | Functional groups in the middle. | Start from the terminal closest to the **Boss**. | Starting numbering *on* a middle atom like Oxygen or Nitrogen. |
+| **Double + Triple Bonds** | Both present in PC. | 1. Number for lowest locants regardless of type. 2. If tied, give double bond the lower number. | Always giving double bonds priority (only do this in a tie). |
+
+---
+
+## **7. JEE Advanced Insights**
+*   **The "a" Rule:** If the 1° Suffix starts with a consonant (e.g., **d**i-ene, **t**ri-yne), an extra **'a'** must be added to the Word Root (e.g., Pental, Buta).
+*   **Alphabetical Suffixes:** When a molecule has both double and triple bonds, \\(-ene\\) is always written before \\(-yne\\) in the name, regardless of their position numbers.
+*   **Terminal Carbon Groups:** Groups like \\(-COOH\\) and \\(-CN\\) "consume" one end of the principal chain, making them the automatic number 1.
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Using Sum of Locants** | Taught in older or lower-level texts. | Use the **First Point of Difference** (Lowest Locant Rule). |
+| **Missing the 'a'** | Forgetting the "di/tri" rule for word roots. | Always check if you are using **diene** or **diyne**; if so, add 'a' to the Word Root. |
+| **Numbering from the Boss** | Thinking you must start *at* the group. | Only start at the group if its carbon is a **terminal atom**. Otherwise, start from the terminal of the PC. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Selection Priority:** Functional Group > Multiple Bond > Side Chain (F-M-S).
+*   **Numbering Priority:** Functional Group > Multiple Bond > Side Chain (F-M-S).
+*   **Double vs. Triple Bond:** Double bond is superior "only if numbering results in a tie".
+*   **Word Root + 'a'**: Required for molecules with multiple identical \\(\pi\\)-bonds (e.g., Butadiene).
+
+### **Frequently Tested Patterns**
+*   **Poly-unsaturated chains:** Numbering a chain with both \\(C=C\\) and \\(C \equiv C\\) and applying alphabetical order in the name.
+*   **Highly branched alkanes:** Selecting the PC based on the maximum number of substituents.
+
+### **Last-Minute Revision Points**
+*   Check for the terminal carbon of groups like \\(-CHO\\) or \\(-COOH\\) to set position 1.
+*   In the name, ignore "di/tri" when determining alphabetical order for 2° Prefixes.
+*   Drop the terminal 'e' of "-ene" or "-ane" if the next suffix starts with a vowel.
+
+# CBrClFI --> Bromochlorofluoroiodomethane
+
+--------------------------------------------------------------------------------------------------------------------------
+
+To name a complex side chain like **1-methylethyl**, you must follow specific IUPAC rules for side-chain nomenclature where the side chain itself contains branches.
+
+### **The Core Naming Rules**
+1.  **Assigning Carbon 1:** The carbon atom of the side chain that is **directly attached to the principal chain (PC)** is always assigned **number 1**.
+2.  **Determining the Side-Chain Backbone:** Starting from carbon 1, identify the longest continuous carbon chain within that specific side chain.
+3.  **Naming Sub-branches:** Any branches attached to this side-chain backbone are treated as substituents and named as prefixes (e.g., "methyl") with their respective position numbers.
+4.  **Suffix:** The entire side chain ends with the suffix **"-yl"**.
+
+### **Application to "1-methylethyl"**
+Drawing from the examples in the source, here is how the name is derived for a three-carbon branched group (\\(–CH(CH_3)_2\\)):
+*   **Numbering:** The central carbon attached to the principal chain is designated as **carbon 1**.
+*   **The Chain:** From carbon 1, the longest chain in any direction consists of 2 carbons. The word root for 2 carbons is "eth," and since it is a side chain, it becomes **"ethyl"**.
+*   **The Sub-branch:** There is a methyl group remaining that is attached to the assigned carbon 1. This is named as **"1-methyl"**.
+*   **Final Name:** Combining these parts gives **1-methylethyl**.
+
+### **Important Constraints**
+*   **No "Bosses":** Side chains never contain a principal functional group (or "boss"). If a functional group like \\(-OH\\) appears in a side chain, it is treated as a prefix (e.g., "hydroxy") rather than using a suffix.
+*   **Saturation:** If the side chain contains double or triple bonds, the internal numbering still starts from the carbon attached to the PC as number 1, but the suffix changes accordingly (e.g., **"ethenyl"** or **"prop-1-enyl"**).
+*   **Double Bond Attachment:** If the side chain is attached to the principal chain by a **double bond** rather than a single bond, the suffix **"-yl"** is replaced by **"-ylidene"** (or *-ylidene*)—for example, a single carbon attached via a double bond is called **"methylidene"**.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: IUPAC Nomenclature - Complex Side Chains & Homework Analysis (Lecture 12)**
+
+## **1. Core Theory**
+
+### **A. Naming of Side Chains (Substituents)**
+When a side chain becomes large or branched (complex), it requires its own systematic naming process within the larger IUPAC name.
+
+*   **The Suffix:** Every side chain uses the suffix **-yl**.
+*   **The Attachment Rule:** The carbon atom of the side chain that is **directly attached to the Principal Chain (PC)** is always assigned **number 1**.
+*   **Internal Numbering:** After assigning '1' to the attachment point, you must find the longest carbon chain starting from that point to determine the side chain's word root.
+*   **Internal Substituents:** Any branches coming off this internal chain are named as prefixes with their own locants (relative to carbon 1 of the side chain).
+
+### **B. Functional Groups in Side Chains**
+A critical rule for JEE Advanced is the treatment of functional groups within substituents:
+*   **No "Bosses" in Side Chains:** A side chain cannot contain the Principal Functional Group (PFG) of the molecule.
+*   **Prefix Requirement:** If a functional group (like \\(-OH\\) or \\(-NH_2\\)) is present in a side chain, its **prefix** (e.g., hydroxy, amino) must be used. Its suffix is never used because the PFG always resides in the Principal Chain.
+
+### **C. Double Bond Attachment (The Unique Case)**
+If a side chain is connected to the Principal Chain by a **double bond** instead of a single bond, the naming convention changes:
+*   **Suffixes:** Instead of "-yl", we use **-ylidene** (or *-ylidine*) or **-ylene**.
+*   **Examples:**
+    *   \\(=CH_2\\) attached to PC: **Methylidene** or **Methylenediene**.
+    *   \\(=CH-CH_3\\) attached to PC: **Ethylidene**.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **The Side Chain "IUPAC within IUPAC":** Think of a complex side chain as a mini-molecule. You apply the same rules (Word Root, Suffix, Prefixes), but with the strict constraint that "Carbon 1" is pre-determined by the point of attachment.
+*   **The "Boss" Logic:** There can only be one "Boss" (PFG) in the entire molecule. If a functional group finds itself in a side chain, it loses its "Boss" status and must be named as a simple substituent (Prefix).
+
+---
+
+## **3. Formula Sheet**
+
+| Side Chain Structure | IUPAC Name |
+| :--- | :--- |
+| \\(-CH_3\\) | Methyl |
+| \\(-CH_2-CH_3\\) | Ethyl |
+| \\(-CH_2-CH_2-CH_3\\) | Propyl |
+| \\(-CH(CH_3)_2\\) | 1-Methylethyl (Commonly: Isopropyl) |
+| \\(-CH(CH_3)CH_2CH_3\\) | 1-Methylpropyl |
+| \\(-CH=CH_2\\) | Ethenyl |
+| \\(-C\equiv CH\\) | Ethynyl |
+| \\(=CH_2\\) | Methylidene / Methylene |
+
+---
+
+## **4. Concept Connections**
+*   **F-M-S Rule (Selection/Numbering):** This lecture reinforces that Functional Groups (F) > Multiple Bonds (M) > Substituents (S) for both selecting the PC and numbering it.
+*   **Isomerism:** Understanding that \\(=CH-CH_3\\) (Ethylidene) and \\(-CH=CH_2\\) (Ethenyl) have the same atoms but different attachment modes is crucial for identifying structural isomers.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Step | Action | Logic |
+| :--- | :--- | :--- |
+| **1. Side Chain Attachment** | Identify the carbon attached to PC. | Assign this as **Carbon 1**. |
+| **2. Internal Chain** | Find the longest chain starting from C1. | This determines the **Word Root** (e.g., eth, prop). |
+| **3. Name Branches** | Identify any groups on the internal chain. | Use prefixes like **1-methyl**. |
+| **4. Assemble** | [Locants]-[Branch]-[Root]-yl. | Example: **1-methylpropyl**. |
+| **5. Double Bond Check** | Is the attachment a double bond? | If yes, change suffix to **-ylidene**. |
+
+---
+
+## **7. JEE Advanced Insights**
+*   **The "a" Addition:** In examples like Butadiene or Pentadiene, an "a" is added to the word root (**Buta**, **Penta**) because the suffix (diene) starts with a consonant.
+*   **Side Chain Saturation:** In complex substituents like **Prop-1-enyl** vs **Prop-2-enyl**, the position of the double bond within the side chain must be specified relative to the attachment point (C1).
+*   **Heteroatoms in Side Chains:** If a side chain has an Oxygen (like \\(-OH\\)), it is always **Hydroxy**, never "ol", because suffixes are reserved for the main PC.
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Thinking |
+| :--- | :--- | :--- |
+| **Not starting at the PC attachment** | Habit of finding the longest chain anywhere. | In a side chain, **C1 is fixed** at the point of attachment to the PC. |
+| **Summing Locants** | Incorrectly using the "Lowest Sum Rule". | Always use the **First Point of Difference** (Lowest Locant Rule). |
+| **Ignoring the 'a'** | Forgetting the rule for dienes/trienes. | If the 1° Suffix is diene/triene/diyne, use **Buta/Penta/Hexa**. |
+| **Double bond priority** | Thinking double bonds always get 1. | Double bonds get 1 only if it doesn't violate the "maximize multiple bonds in PC" rule. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Side Chain C1:** Always the atom connected to the Principal Chain.
+*   **Suffixes:** `-yl` (single bond), `-ylidene` (double bond).
+*   **Selection:** Maximize Bosses > Maximize Multiple Bonds > Longest Chain > Maximize Side Chains.
+*   **Numbering:** Give lowest locants to Bosses > Multiple Bonds > Side Chains.
+
+### **Frequently Tested Patterns**
+*   **Alphabetical Tie-breaker:** Using alphabetical order (Ethyl vs. Methyl) to number a symmetrical chain.
+*   **First Point of Difference:** Comparing sets like (3, 4, 6) vs (3, 5, 6).
+
+### **Last-Minute Revision Points**
+*   Side chains ending in double bonds (\\(=CH_2\\)) are **Methylidene**.
+*   Always check if a word root needs an **'a'** (e.g., **Buta**-1,3-diene).
+
+--------------------------------------------------------------------------------------------------------------------------
+
+@ photo - nomenclature.png
+
+Compounds jisme cyclic aur acyclic part dono ho :-
+- Ek hi main chain lenge ya toh cyclic wali ya toh open-chain wali.
+- Usko main chain lenge jisme 'boss' ho, boss nahi toh jisme multiple bond ho, vo bhi nahi toh jiski length jyada h, agar in sabke sath length bhi same ho jaye toh ring ko preference denge.
+- ring m ek multiple bond aue open-chain m do multiple bond to open-chain main chain banegi.
+- multiple ring m jis ring ki length jyada usse main chain lenge.
+
+@ photo - nomenclature1.png
+# 37 m, agar chain m, double bond k ek part ko 1 denge toh dusre part ko 2 hi denge 1 aur 6 nahi denge
+# 46 m double bond k dono side ko 1 aur 2 number nahi de sakte kyunki ek number ring p aayega aur dusra open-chain p toh aise numbering nahi kar sakte.
+
+Note:-
+i) Allyl --> (CH_2=CH-CH_2-)
+ii) Vinyl --> (CH_2=CH-)
+iii) Geminal(Gem) --> -CX_2- #ek hi carbon m do same substituent
+iv) Vicinal(Vic) --> =CX-CX= # do agal bagal atom m same group
+v) iso --> second last terminal atom p methyl substituent
+sidechains :
+-CH(CH_3)CH_3                                        {isopropyl}            {smallest}
+-CH_2CH(CH_3)CH_3                               {isobutyl}
+-CH_2CH_2CH(CH_3)CH_3                       {isopentyl}
+compounds :
+# There's nothing like isopropane. CH_3CH_2CH_3, nahi ye ho nahi sakta.
+- CH_3CH(CH_3)CH_3                              {isobutane}
+- CH_3CH_2CH(CH_3)CH_3                      {isopentane}
+- CH_3CH_2CH_2CH(CH_3)CH_3             {isohexane}
+- CH_3C(CH_3)_2CH_2CH(CH_3)CH_3     {isooctane}           #naming locha
+vi) neo --> second last terminal atom p do methyl substituent
+sidechains :
+- CH_2C(CH_3)_2CH_3                             {neopentyl}
+- CH_2CH_2C(CH_3)_2CH_3                     {neohexyl}
+- CH_2CH_2CH_2C(CH_3)_2CH_3            {neoheptyl}
+compounds :
+- CH_3C(CH_3)_2CH_3                             {neopentane}
+- CH_3CH_2C(CH_3)_2CH_3                     {neohexane}
+
+@ photo - nomenclature2.png
+# isme ring aur chain dono m same number of carbon atoms h toh ring parent chain hogi aur name hoga :-
+1-(pentan-2-yl)cyclopentane         {most preferred}
+1-(1-methylbutyl)cyclopentane     {ye bhi sahi h par usko prefer karte h, pata nahi kyu}
+2-cyclopentylpentane                    {agar chain ko parent chain le, par acc. to IUPAC nahi karenge}
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: IUPAC Nomenclature – Neo-Groups, Acids, & Anhydrides (Lecture 14)**
+
+## **1. Core Theory**
+
+### **B. Carboxylic Acids (Priority #1)**
+*   **The "Boss" of FGs:** Carboxylic acids (\\(R-COOH\\)) hold the highest priority in the IUPAC table.
+*   **Structure:** A carbonyl group (\\(C=O\\)) directly bonded to a hydroxyl group (\\(-OH\\)).
+*   **Nomenclature:**
+    *   **2° Suffix:** **-oic acid** (used when the carbon of \\(-COOH\\) is included in the Principal Chain).
+    *   **Special Suffix:** **Carboxylic acid** (used in specific "emergency" cases, such as when the acid is attached to a ring or in multi-acid chains).
+    *   **Prefix:** **Carboxy** (used when the acid is a substituent).
+@ photo - carboxylic acid
+# maleic acid (10) aur fumeric acid (11) ek dusre k geometrical isomers h
+
+### **C. Acid Anhydrides (Priority #2)**
+*   **Definition:** Formed by the dehydration (removal of \\(H_2O\\)) of two carboxylic acid molecules.
+*   **Structure:** \\(R-CO-O-CO-R'\\).
+*   **Nomenclature:**
+    *   **Symmetrical Anhydride:** If \\(R = R'\\), name it as **[Alkanoic] anhydride** (e.g., Ethanoic anhydride).
+    *   **Asymmetrical Anhydride:** If \\(R \neq R'\\), name both parent acids alphabetically: **[Alkanoic] [Alkanoic] anhydride**.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **Anhydride Shortcut:** To name an anhydride, mentally "add water" back to it to see which two acids it was made from. The name of the anhydride is simply the name of those parent acids followed by the word "anhydride" instead of "acid".
+*   **Mnemonic for Di-acids (OMSGAP):** To memorize the common names of dicarboxylic acids as they increase in chain length (\\(C_2\\) to \\(C_7\\)): **O**xalic, **M**alonic, **S**uccinic, **G**lutaric, **A**dipic, **P**imelic.
+
+---
+
+## **3. Formula Sheet**
+
+### **Common Dicarboxylic Acids (\\(HOOC-(CH_2)_n-COOH\\))**
+| n | Common Name | IUPAC Name |
+| :--- | :--- | :--- |
+| 0 | **Oxalic Acid** | Ethanedioic acid |
+| 1 | **Malonic Acid** | Propanedioic acid |
+| 2 | **Succinic Acid** | Butanedioic acid |
+| 3 | **Glutaric Acid** | Pentanedioic acid |
+| 4 | **Adipic Acid** | Hexanedioic acid |
+| 5 | **Pimelic Acid** | Heptanedioic acid |
+
+### **Specialized Acids**
+*   **Maleic Acid:** Cis-Butenedioic acid.
+*   **Fumaric Acid:** Trans-Butenedioic acid.
+*   **Lactic Acid:** 2-Hydroxypropanoic acid.
+*   **Salicylic Acid:** 2-Hydroxybenzoic acid (Aspirin precursor).
+
+---
+
+## **4. Concept Connections**
+*   **Dehydration Link:** The relationship between acids and anhydrides is a dehydration reaction (\\(2 \times \text{Acid} - H_2O \rightarrow \text{Anhydride}\\)).
+*   **Stereochemistry Link:** Maleic and Fumaric acids are the classic examples of **cis-trans (geometrical) isomerism** taught in later chapters.
+*   **Biological Link:** Lactic acid (muscles) and Malic acid (apples) are organic acids that appear frequently in biochemistry.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy |
+| :--- | :--- | :--- |
+| **Symmetrical Anhydride** | \\(R\\) groups on both sides of central Oxygen are identical. | Number one side only. Name as **Alkanoic anhydride**. |
+| **Asymmetrical Anhydride** | \\(R\\) groups are different. | Number both sides separately. List names in **alphabetical order**. |
+| **Di-acid Naming** | Two \\(-COOH\\) groups present. | Number from one terminal to the other. Use the suffix **-dioic acid**. |
+| **Substituted Acids** | Acid with \\(-OH\\) or \\(-NH_2\\) groups. | Acid is always Carbon #1. Name other groups as **prefixes** (e.g., 2-hydroxy). |
+
+---
+
+## **7. JEE Advanced Insights**
+*   **The "a" Rule in Di-acids:** When naming a di-acid like **Butanedioic acid**, the "e" of butane is **not** dropped because "d" is a consonant.
+*   **Priority in Anhydrides:** If you have an asymmetrical anhydride, alphabetization is the absolute rule for the final IUPAC name (e.g., **E**thanoic **M**ethanoic anhydride).
+*   **Aspirin Connection:** Recognizing **Salicylic acid** and **Aspirin** structures is frequently tested in "Chemistry in Everyday Life" and Advanced nomenclature sections.
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **"Iso-propane"** | Forcing a branch on 3 carbons. | Realize it's just a **straight-chain Propane**. |
+| **Phonetic Confusion** | Mixing Malonic, Maleic, and Malic. | **Malonic** = \\(C_3\\) di-acid; **Maleic** = cis-unsaturated; **Malic** = hydroxy-acid. |
+| **Anhydride Over-counting** | Counting the total carbons across the whole molecule. | Number the **two sides separately** relative to the central Oxygen. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Priority 1:** Carboxylic Acid (Suffix: -oic acid).
+*   **Priority 2:** Acid Anhydride (Suffix: -oic anhydride).
+*   **OMSGAP:** Order of dicarboxylic acids (\\(C_2 \rightarrow C_7\\)).
+
+### **Frequently Tested Patterns**
+*   **Alphabetical order in Asymmetrical Anhydrides.**
+*   **IUPAC names of common di-acids** (especially Adipic and Succinic).
+
+### **Last-Minute Revision Points**
+*   **-dioic acid** does not require position numbers because they are terminal.
+*   **Iso-octane** has a "Naming Locha" (it doesn't follow standard IUPAC rules perfectly in common parlance).
+*   **Formic Acid** (\\(HCHO\\)) is the only 1-carbon acid.
+
+@ photo - acid anhydride
+# cyclic jaise dekhne wale compounds ka kaam corresponding carboxylic acid ka naam nikalke phir last m acid ki jagah anhydride likhke hoga
+# naam me 'cyclo' nahi aayega kyunki main chain toh loop bana hi nahi rahi (beech m O aara hai)
+
+--------------------------------------------------------------------------------------------------------------------------
+Structure 	Preferred (PIN)	Fully systematic
+C₆H₅COOH	Benzoic acid	        Benzenecarboxylic acid
+C₆H₅CONH₂	Benzamide        	Benzenecarboxamide
+C₆H₅CN	    Benzonitrile	        Benzenecarbonitrile
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: IUPAC Nomenclature – Acid Halides, Esters, and Amides (Lecture 15)**
+
+## **1. Core Theory**
+
+### **A. Specialized Suffixes for Carbon-Containing Groups**
+A critical theme in this lecture is the distinction between two types of suffixes for functional groups like Acid Halides, Esters, and Amides.
+
+*   **Suffix Type 1 (Standard):** Used when the carbon of the functional group is **included** in the principal chain numbering (e.g., -oyl halide, -oate, -amide).
+*   **Suffix Type 2 (Special/Carbo-):** Used when the functional group is **directly attached to a ring** and its carbon cannot be included in the principal chain numbering (e.g., -carbonyl halide, -carboxylate, -carboxamide).
+
+### **B. Functional Group Overviews**
+
+#### **1. Acid Halides (\\(R-CO-X\\))**
+*   **Structure:** Carbonyl group bonded to a Halogen (\\(F, Cl, Br, I\\)).
+*   **Prefix:** Halo-carbonyl or Halo-formyl (when treated as a substituent).
+*   **Suffixes:**
+    *   **-oyl halide:** Carbon is counted in the main chain.
+    *   **-carbonyl halide:** Carbon is NOT counted (directly on a ring).
+@ photo - acid halide.png
+
+#### **2. Esters (\\(R-CO-OR'\\))**
+*   **Structure:** Carbonyl group bonded to an Alkoxy group.
+*   **Prefixes:**
+    *   **Alkoxycarbonyl:** When the chain is attached to the carbonyl carbon.
+    *   **Alkanoyloxy:** When the chain is attached to the oxygen atom.
+*   **Suffixes:** **-oate** (standard) or **-carboxylate** (special).
+@ photo - ester.png
+
+#### **3. Acid Amides (\\(R-CO-NH_2\\))**
+*   **Structure:** Carbonyl group bonded to Nitrogen.
+*   **Prefix:** Carbamoyl.
+*   **Suffixes:** **-amide** (standard) or **-carboxamide** (special).
+@ photo - acid amide.png
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **The "VIP" Rule for Esters:** In an ester (\\(R-CO-OR'\\)), the group (\\(R'\\)) attached to the **Oxygen** is treated as a VIP. Its name must be written **first and separately** at the beginning of the IUPAC name, regardless of alphabetics or other substituents.
+*   **The "N" Locant for Amides:** In \\(2^\circ\\) or \\(3^\circ\\) amides, substituents are attached to the Nitrogen atom. To specify their position, we use the letter **"N"** as a locant instead of a number (e.g., *N-methyl*).
+*   **Benzene's Dual Identity:** When the benzene ring is the main chain, the word root+1^\circ suffix, used is **"Benzene"**. When it acts as a side chain, the 2^\circ prefix is **"Phenyl"**.
+
+---
+
+## **3. Formula Sheet**
+
+| Functional Group | Standard Suffix | Special Suffix (for Rings) | Prefix |
+| :--- | :--- | :--- | :--- |
+| **Acid Halide** | -oyl halide | -carbonyl halide | Haloformyl |
+| **Ester** | -oate | -carboxylate | Alkoxycarbonyl |
+| **Amide** | -amide | -carboxamide | Carbamoyl |
+
+**Naming Format for Esters:**
+\\[\text{[Alkyl group on Oxygen]} + \text{[Substituents]} + \text{[Word Root]} + \text{[1° Suffix]} + \text{oate}\\]
+
+---
+
+## **4. Concept Connections**
+*   **Stereoisomerism (Maleic vs. Fumaric):** These are both **But-2-ene-1,4-dioic acids**. They are distinct compounds because the distance between the \\(-COOH\\) groups differs due to the double bond.
+    *   **Maleic Acid:** *Z*-isomer (groups on the same side).
+    *   **Fumaric Acid:** *E*-isomer (groups on opposite sides).
+*   **Cyclic Anhydrides:** These are named based on the parent di-acid from which they were formed by removing water (e.g., *Butanedioic anhydride* from *Butanedioic acid*).
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clue | Strategy |
+| :--- | :--- | :--- |
+| **Directly on Ring** | \\(C-CHO, C-COX\\), etc., attached to a cyclic system. | **Do not number the FG carbon.** Number the ring and use the special "Carbo-" suffix. |
+| **Ester Naming** | \\(R-CO-OR'\\) structure. | 1. Name \\(R'\\) first. 2. Number the acyl chain starting from the carbonyl carbon as #1. 3. Combine. |
+| **Mixed Substituents** | Multiple side chains (e.g., Cl, Oxo). | Use alphabetical order (Chloro before Oxo). |
+| **Amide Numbering** | \\(R-CO-NR_2\\). | If substituents are on Nitrogen and the chain, use "N, # - dimethyl". |
+
+---
+
+## **6. Examples and Applications**
+*   **Iso-octane:** A common name for **2,2,4-trimethylpentane**. It can be viewed as a combination of a *tert*-butyl group and an *isobutyl* group.
+*   **Ethane-1,2-dioic acid:** Common name **Oxalic Acid**.
+*   **Cyclohexanecarbonyl chloride:** A 6-membered ring with a \\(-COCl\\) group directly attached. Note: "Cyclo" is used because the main chain is the ring.
+*   **3-hydroxybutanoic acid:** Common name **Malic Acid**.
+*   **2-oxopropanoic acid:** Common name **Pyruvic Acid**.
+
+---
+
+## **7. JEE Advanced Insights**
+*   **The "a" Addition:** For molecules with two double bonds (dienes), remember to add an 'a' to the word root (e.g., **Buta**-1,3-diene).
+*   **E/Z Configuration:** For advanced IUPAC naming of unsaturated acids like Maleic/Fumaric, the configuration (\\(2Z\\) or \\(2E\\)) must be mentioned before the name.
+*   **Isotopes and Stereocenters:** When multiple double bonds exist, positions and configurations for each must be listed (e.g., *2Z, 3E...*).
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Numbering the Carbon on a Ring** | Habit from open chains. | If \\(COX/COOR/CONH_2\\) is **directly** on a ring, the ring carbon is #1; the FG carbon is NOT numbered. |
+| **Mixing Ester \\(R'\\) with side chains** | Thinking it's just another substituent. | The \\(R'\\) group (on Oxygen) **must** come first and cannot be mixed into "di/tri" prefixes with other substituents. |
+| **Malonic vs. Maleic vs. Malic** | Similar names. | **Malonic** (saturated di-acid), **Maleic** (unsaturated cis), **Malic** (hydroxy acid). |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Special Suffixes:** Used when the functional group is attached to a ring and its carbon is excluded from the chain (Carbonyl chloride, Carboxylate, Carboxamide).
+*   **Benzene Side Chain:** Named **Phenyl**.
+*   **Ester VIP:** Alkyl group on Oxygen is always named first.
+
+### **Frequently Tested Patterns**
+*   **Alphabetical order** of substituents (e.g., *N-ethyl-N-methyl...*).
+*   Naming **Anhydrides** by identifying the parent acids (Alphabetical order for asymmetrical ones).
+
+### **Last-Minute Revision Points**
+*   **BHC (Benzene Hexachloride)** is actually a saturated cyclohexane ring (DU=1) [Source 14 Context].
+*   **-dioic acids** do not need position numbers for the acids as they are always terminal.
+*   **Carbaldehyde** and **Carbonitrile** follow the same "Carbo-" special suffix rules for rings.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: IUPAC Nomenclature (Lecture 16)**
+
+## **1. Core Theory**
+
+### **A. Cyanides (Nitriles)**
+*   **Structure:** Consists of a carbon atom triple-bonded to nitrogen (\\(-C \equiv N\\)).
+*   **Nature:** It is a **terminal functional group**. Because the carbon forms three bonds with nitrogen, it must be at the end of a chain, and its carbon is typically assigned **number 1**.
+*   **Nomenclature:**
+    *   **Prefix:** **Cyano**.
+    *   **Suffix 1 (Standard):** **Nitrile** (used when the carbon of \\(-CN\\) is included in the principal chain numbering).
+    *   **Suffix 2 (Special):** **Carbonitrile** (used when the carbon of \\(-CN\\) is **not numbered**, typically when it is directly attached to a ring).
+
+### **B. Aldehydes**
+*   **Structure:** \\(-CHO\\) group. It is also a terminal functional group.
+*   **Nomenclature:**
+    *   **Prefix 1 (Oxo):** Used when the **carbon** of the \\(-CHO\\) group is counted in the main chain but the group is acting as a substituent.
+    *   **Prefix 2 (Formyl):** Used when the **entire \\(-CHO\\) group** (including its carbon) is treated as a substituent and its carbon is **not** part of the main chain.
+    *   **Suffix 1 (Standard):** **-al** (used when the carbon is counted in the main chain).
+    *   **Suffix 2 (Special):** **Carbaldehyde** (used when the carbon is not counted, especially on rings).
+
+### **C. Ketones**
+*   **Structure:** A carbonyl group (\\(-C=O-\\)) situated between two carbon atoms.
+*   **Nature:** Unlike aldehydes or cyanides, ketones are **non-terminal**; they do not have a requirement to appear at the end of a chain.
+*   **Nomenclature:**
+    *   **Prefix:** **Oxo**.
+    *   **Suffix:** **-one**.
+
+### **D. Alcohols**
+*   **Structure:** An \\(-OH\\) group attached to a carbon atom. Note that the functional group itself does **not** contain a carbon atom.
+*   **Nomenclature:**
+    *   **Prefix:** **Hydroxy**.
+    *   **Suffix:** **-ol**.
+
+### **E. Amines**
+*   **Structure:** Derived from ammonia (\\(-NH_2, -NHR, -NR_2\\)).
+*   **Classification:** Can be **Primary (\\(1^\circ\\))**, **Secondary (\\(2^\circ\\))**, or **Tertiary (\\(3^\circ\\))**. In IUPAC, these are treated as **different functional groups**.
+*   **Nomenclature:**
+    *   **Prefix:** **Amino**.
+    *   **Suffix:** **-amine**.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **Nitrail Meaning:** The teacher explains that "Nitrail" specifically refers to the **triple bond with Nitrogen**. If the Carbon is included in the word root (like *ethane*), then *nitrile* completes the name. If the carbon isn't counted, we must use *carbonitrile* to account for that missing carbon atom.
+*   **The "N" Locant for Amines/Amides:** For secondary and tertiary amines, substituents are attached to the **Nitrogen atom**, not a carbon number. Therefore, we use the letter **"N"** as a locant to show where the side chain is located (e.g., *N-methyl*).
+*   **Boss vs. Sidekick:** The priority table determines the "Boss" (Principal Functional Group). Only the Boss gets a suffix; everyone else is a substituent and must use their prefix name.
+*   **Ketone Smallest Member:** A ketone requires a carbonyl between *two* other carbons, meaning the smallest possible ketone must have **three carbons** (Acetone).
+
+---
+
+## **3. Formula Sheet**
+
+| Functional Group | Prefix | Suffix (Counted) | Suffix (Not Counted/Ring) |
+| :--- | :--- | :--- | :--- |
+| **Cyanide** | Cyano | -nitrile | -carbonitrile |
+| **Aldehyde** | Oxo / Formyl | -al | -carbaldehyde |
+| **Ketone** | Oxo | -one | N/A |
+| **Alcohol** | Hydroxy | -ol | N/A |
+| **Amine** | Amino | -amine | N/A |
+
+**Key Rules:**
+*   **Vowel Rule:** If the suffix starts with a vowel (a, e, i, o, u, y), drop the terminal 'e' of the primary suffix (e.g., *methan-e* + *al* = *methanal*).
+*   **Consonant Rule:** If the suffix starts with a consonant (like 'n' in nitrile), **do not** drop the 'e' (e.g., *ethane nitrile*).
+
+---
+
+## **4. Concept Connections**
+*   **Explosives Link:** Glycerol (Propane-1,2,3-triol) is used to create **Dynamite** and other explosives like **RDX**.
+*   **Priority Table:** Cyanide > Aldehyde > Ketone > Alcohol > Amine. This order dictates which group gets the suffix in multi-functional molecules.
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy |
+| :--- | :--- | :--- |
+| **Ring-Attached FG** | \\(-CN, -CHO\\) directly on a ring. | Do not number the FG carbon. Start numbering the ring at that attachment and use **Carbonitrile** or **Carbaldehyde**. |
+| **Secondary/Tertiary Amine** | N attached to multiple carbon chains. | Choose the **longest chain** as the main chain. Name other chains as **"N-alkyl"** substituents. |
+| **Multi-Functional** | \\(-OH, -CN, -CHO, =O\\) present. | Use the priority table to find the "Boss." Use prefixes for all other groups. |
+| **Common Names** | Compounds like Acetone, Formaldehyde. | Translate to IUPAC: Propanone, Methanal. |
+
+---
+
+## **6. Examples and Applications**
+
+*   **Ethane nitrile (\\(CH_3CN\\)):** 2 carbons in the main chain including \\(-CN\\). No 'e' dropped because 'n' is a consonant.
+*   **3-Chlorobut-2-enenitrile:** Example of a nitrile with a side chain (Cl) and a double bond.
+*   **Cyclohexane carbonitrile:** The \\(-CN\\) is on a ring, so its carbon isn't numbered; the special suffix is used.
+*   **Salicylaldehyde:** 2-hydroxybenzaldehyde (important for future reactions).
+*   **Ethane-1,2-dial (Glyoxal):** Smallest molecule with two aldehyde groups.
+*   **Benzophenone:** Diphenylmethanone; a ketone with two phenyl groups.
+*   **Glycerol:** Propane-1,2,3-triol; a common tri-alcohol.
+*   **N-methylpropan-1-amine:** A secondary amine where methyl is on the nitrogen.
+
+---
+
+## **7. JEE Advanced Insights**
+*   **Formyl vs. Oxo:** This is a classic Advanced trap. Use **Formyl** when the carbon of the aldehyde is **not** part of the chain you are numbering (common in complex branched systems). Use **Oxo** when that carbon is included in the chain count.
+*   **Symmetry in Nitriles:** When two \\(-CN\\) groups are present at terminals, compare multiple bond positions and side chains to break the numbering tie.
+*   **Side-Chain Alcohols:** If you cannot include all \\(-OH\\) groups in the main chain, the ones left out are named as **hydroxyalkyl** side chains (e.g., *2-hydroxymethyl*).
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Dropping 'e' for Nitrile** | Habit from Alcohols/Aldehydes. | **Nitrile starts with 'N'** (consonant), so keep the 'e' (e.g., *Ethanenitrile*). |
+| **Numbering Carbon on a Ring** | Treating ring like open chain. | If the FG carbon is directly on a ring, the ring carbon is #1; the **FG carbon is NOT numbered**. |
+| **Mixing Amine Degrees** | Forgetting they are different FGs. | Treat \\(1^\circ, 2^\circ, 3^\circ\\) amines as different functional identities in naming and isomerism. |
+| **Assuming Alcohol has Carbon** | \\(-OH\\) looks like it's a "group." | Unlike \\(-CN\\) or \\(-CHO\\), the **\\(-OH\\) group has 0 carbons**. The carbon it is on is part of the chain. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Cyanide:** Suffix is *Nitrile* (counted) or *Carbonitrile* (on ring).
+*   **Aldehyde:** Suffix is *Al* (counted) or *Carbaldehyde* (on ring).
+*   **Ketone:** Smallest is 3-carbon Acetone. Only one suffix (*-one*).
+*   **Amines:** Use **"N"** to show substituents on the Nitrogen atom.
+*   **Special Consonant Rule:** Do not drop 'e' for Nitriles or Amides.
+
+### **Frequently Tested Patterns**
+*   **Priority identification:** Recognizing that \\(-CN > -CHO > -CO- > -OH > -NH_2\\).
+*   **Aromatic names:** Salicylaldehyde, Acetophenone, Benzophenone.
+*   **Poly-alcohols:** Ethylene glycol (diol) and Glycerol (triol).
+
+### **Last-Minute Revision Points**
+*   **Formyl** = \\(-CHO\\) as a whole side chain.
+*   **Oxo** = Double bond oxygen substituent.
+*   **Carboxy-prefix** is used for acids, but **Carbamoyl** is used for amides [Lecture 15 context].
+*   **Bicyclic/Spiro:** Briefly mentioned as non-essential for basic JEE but will be covered for 15-20 minutes in the next class. Acknowledge that I have created an infographic for your reference.
+
+I have created an infographic regarding the key IUPAC nomenclature rules for these functional groups to aid in your revision.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+# **JEE Organic Chemistry Notes: Epoxy, Poly-functional Groups & Bicyclo Compounds (Lecture 17)**
+
+## **1. Core Theory**
+
+### **A. Epoxy Compounds (Cyclic Ethers)**
+*   **Definition:** Epoxy is a part of a **cyclic ether** where an Oxygen atom is bonded to two different carbons within a chain or ring.
+*   **Classification:** It is strictly considered a **side chain (substituent)** or prefix.
+*   **Naming Convention:**
+    *   The name is written as **"(x,y)-epoxy"**, where x and y represent the locants (position numbers) of the two carbons attached to the Oxygen.
+    *   **Prefix only:** Since it is a side chain, it only has a prefix and no suffix.
+@ photo - epoxy.png
+### **B. Poly-functional Groups (Carbon-containing)**
+This section addresses the "3+ Rule" for molecules containing three or more identical carbon-containing functional groups (e.g., \\(-COOH, -CN, -CHO, -COX, -COOR, -CONH_2\\)).
+
+**Selection Strategy:**
+1.  **Find the longest chain** while **excluding** the carbons of the functional groups themselves.
+2.  **Case 1: Directly Connected.** If all identical groups are directly attached to this selected chain, they are all treated as the "Boss" (PFG).
+    *   **Suffixes:** Use special suffixes: **-tricarboxylic acid, -tricarbonitrile, -tricarbaldehyde**, etc..
+3.  **Case 2: Not Directly Connected.** If even one group is not directly connected to the chain, you must discard the previous method. Instead, select the longest chain that includes as many of those groups as possible.
+    *   **Prefixes:** The groups that cannot be included in the principal chain are named as **prefixes** (e.g., **carboxy, formyl, cyano**).
+
+### **C. Aromatic IUPAC Nomenclature**
+IUPAC accepts specific common names as standard.
+*   **Accepted Names:** Phenol, Benzaldehyde, Benzoic acid, Toluene.
+*   **Aromatic Preference:** For a single substituent like \\(-COCl\\) on benzene, **Benzoyl chloride** is common, but **Benzene carbonyl chloride** is also a systematic and preferred name.
+
+### **D. Bicyclic Compounds**
+*   **Definition:** Two rings sharing at least **two common atoms**.
+*   **Bridgeheads:** The two common atoms where the rings join are called **Bridgehead carbons**.
+*   **Numbering Rule:** Always start numbering from a **bridgehead carbon**. Move through the **largest bridge** first to the other bridgehead, then the **next largest**, and finally the **smallest bridge**.
+
+---
+
+## **2. Intuition and Conceptual Understanding**
+*   **The "Bridge" Mental Model:** In bicyclic compounds, imagine three paths between point A and B (the bridgeheads). To number correctly, you must travel the longest "hiking path" first to ensure the largest possible numerical set for the core skeleton.
+*   **The "Carbon-Count" Logic:** For poly-functional groups (like 3 \\(-CN\\) groups), if you don't count the carbon in the chain, you must use a suffix that explicitly mentions the carbon (e.g., **"Carbo"**nitrile) to ensure the atom is not lost in the name.
+*   **Side Chain vs. Boss:** In complex poly-functional molecules, if a functional group is not part of the main chain, it **cannot be a boss**. It must use a prefix (like **Carboxy**).
+
+---
+
+## **3. Formula Sheet**
+
+| Group | Standard Suffix (Counted) | Special Suffix (Not Counted) | Prefix |
+| :--- | :--- | :--- | :--- |
+| **\\(-CN\\)** | -nitrile | -carbonitrile | Cyano |
+| **\\(-CHO\\)** | -al | -carbaldehyde | Formyl / Oxo |
+| **\\(-COOH\\)** | -oic acid | -carboxylic acid | Carboxy |
+| **\\(-COCl\\)** | -oyl chloride | -carbonyl chloride | Chlorocarbonyl |
+| **\\(-CONH_2\\)** | -amide | -carboxamide | Carbamoyl |
+
+**Bicyclo Format:**
+\\[\text{Bicyclo[x.y.z]alkane}\\]
+*(where x, y, z are the number of carbons in each bridge in descending order)*.
+@ photo - bicyclo
+---
+
+## **4. Concept Connections**
+*   **Solvents:** **THF (Tetrahydrofuran)** is an important industrial solvent identified systematically as **1,4-epoxybutane**.
+*   **Acids:** **Citric Acid** is a major poly-functional acid consisting of a propane chain with three carboxylic acids and one hydroxy group.
+            CH_2(COOH)-C(OH)(COOH)-CH_2(COOH)
+*   **Explosives:** Glycerol and other poly-ols are precursors to explosives like RDX (contextual mention).
+
+---
+
+## **5. Problem-Solving Framework**
+
+| Question Type | Identification Clues | Approach / Strategy |
+| :--- | :--- | :--- |
+| **Epoxy Naming** | Oxygen bridged between carbons. | Identify locants x, y; name as **x,y-epoxy**. |
+| **3+ Identical Groups** | 3 \\(-COOH, -CN\\), etc. | If all direct: use **Carbo-** suffix. If not: use **Prefixes**. |
+| **Bicyclo Numbering** | Shared bridgehead atoms. | **Bridgehead \\(\rightarrow\\) Large Bridge \\(\rightarrow\\) Small Bridge**. |
+| **Ester with Side Chains** | \\(R-CO-OR'\\) with epoxy/ether. | Name \\(R'\\) (on Oxygen) first, then locants and suffixes. |
+
+---
+
+## **6. Examples and Applications**
+*   **Example 1 (1,2-epoxyethane):** Two carbons with a bridged oxygen.
+*   **Example 7 (THF/T.H.F.):** **1,4-epoxybutane**. Common name Tetrahydrofuran.
+*   **Example 1 (Nitriles):** **Propane-1,2,3-tricarbonitrile**. All three carbons of the CN groups are attached to a 3-carbon propane chain.
+*   **Example 12 (Citric Acid):** **2-hydroxypropane-1,2,3-tricarboxylic acid**.
+*   **Example 10 (Poly-acid):** When a group is not direct, it becomes **3-(carboxymethyl)pentanedioic acid**.
+
+---
+
+## **7. JEE Advanced Insights**
+*   **Multiple Choice Patterns:** In aromatic naming, IIT often accepts both systematic names and common names (e.g., **4-chlorotoluene** and **1-chloro-4-methylbenzene** are both correct).
+*   **The "a" Rule:** Remember to add an **'a'** to the word root for dienes/trienes (e.g., **Buta**-1,3-diene).
+*   **Bridgehead Priority:** In Bicyclic systems, substituents only determine numbering direction if the path lengths (bridges) are identical.
+
+---
+
+## **8. Common Mistakes and Traps**
+
+| Mistake | Why Students Make It | Correct Approach / Thinking |
+| :--- | :--- | :--- |
+| **Counting \\(C\\) of \\(CN\\) on ring** | Treating it like an open chain. | Use **Carbonitrile**; do not number the Carbon of the functional group. |
+| **Mixing Bicyclo Bridge numbers** | Writing them in ascending order. | Numbers in the bracket \\([x.y.z]\\) must be in **descending order**. |
+| **Numbering from the "Middle"** | Trying to give side chains #1. | Always start at a **Bridgehead** carbon for Bicyclo. |
+| **Ignoring "VIP" in Esters** | Mixing the \\(R'\\) group with other side chains. | The group on **Oxygen** is always named **first and separately**. |
+
+---
+
+## **9. High-Yield Revision Sheet**
+
+### **Must Remember**
+*   **Bicyclo Path:** **\\(Large \to Small\\)**.
+*   **Special Suffixes:** Used when groups are not counted or are on a ring.
+*   **Epoxy:** Always a prefix (**-epoxy**).
+*   **Aromatic Standards:** Phenol, Toluene, Aniline, Benzoic Acid.
+
+### **Frequently Tested Patterns**
+*   **Ester prefixes:** **Alkoxycarbonyl** vs **Alkanoyloxy**.
+*   **Numbering ties in Bicyclo:** Using substituents to break ties only when bridge sizes are equal.
+
+### **Last-Minute Revision Points**
+*   \\(COOH > SO_3H > COOR > COCl > CONH_2 > CN > CHO > CO > OH > NH_2\\).
+*   **Spiro** naming starts next class (only 1 common atom).
+*   Check for the **'a'** in word roots when using "di-" suffixes.
+
+***
+
+*Notes prepared based on SKM Sir's Lecture 17. Ensure to practice the 18 homework problems mentioned for full mastery.*
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Priority	        Functional group 	Suffix (when principal functional group)	      Prefix (when substituent)
+1	                Carboxylic acid (–COOH)        	–oic acid//carboxylic acid              carboxy–
+2              	Sulfonic acid (–SO₃H)	            –sulfonic acid	                              sulfo–
+3              	Acid anhydride (–CO–O–CO–)  	–oic anhydride//carboxylic anhydride  	—
+4              	Ester (–COOR)	                        alkyl alkan-{oate}                            alkoxycarbonyl–//alkanoyloxy
+5              	Acid halide (–COX)                  	–oyl halide//carbonyl halide	     halocarbonyl–
+6	                Amide (–CONH₂)                     	–amide//carboxamide                   carbamoyl–
+7	                Cyanide (–C≡N)	                    –nitrile//carbonitrile                   	cyano–
+8	                Aldehyde (–CHO)	                    –al//carbondehyde                        formyl–//oxo–
+9                	Ketone (>C=O)	                    –one	                                              oxo–
+10               	Alcohol (–OH)	                        –ol	                                              hydroxy–
+11                Amine (–NH₂)                         	–amine	                                          amino–
+12	            Ether (–O–)	                                         —                                   	alk{oxy}–
+13	            Nitro (–NO₂)                                         	—                                    	nitro–
+14               	Halo (–F, –Cl, –Br, –I)	                         —           	fluoro-, chloro-, bromo-, iodo-
+--------------------------------------------------------------------------------------------------------------------------
+| Structure        | Systematic / functional-class name | Common / retained name  |
+| ---------------- | ---------------------------------- | ----------------------- |
+| **Ph–OH**        | Benzenol                           | **Phenol**              |
+| **Ph–CHO**       | Benzenecarbaldehyde                | **Benzaldehyde**        |
+| **Ph–COOH**      | Benzenecarboxylic acid             | **Benzoic acid**        |
+| **Ph–COOEt**     | Ethyl benzenecarboxylate           | **Ethyl benzoate**      |
+| **Ph–CO–CH₃**    | 1-Phenylethan-1-one                | **Acetophenone**        |
+| **Ph–CO–Ph**     | Diphenylmethanone                  | **Benzophenone**        |
+| **Ph–COCl**      | Benzenecarbonyl chloride           | **Benzoyl chloride**    |
+| **Ph–CONH₂**     | Benzamide                          | **Benzamide**           |
+| **Ph–NH₂**       | Benzenamine                        | **Aniline**             |
+| **Ph–NH–Ph**     | Diphenylamine                      | **Diphenylamine**       |
+| **Ph–N(CH₃)₂**   | N,N-Dimethylbenzenamine            | **N,N-Dimethylaniline** |
+| **Ph–NO₂**       | Nitrobenzene                       | **Nitrobenzene**        |
+| **Ph–CN**        | Benzonitrile                       | **Benzonitrile**        |
+| **Ph–NCO**       | Isocyanatobenzene                  | **Phenyl isocyanate**   |
+| **Ph–OC₂H₅**     | Ethoxybenzene                      | **Phenetole**           |
+| **Ph–OCH₃**      | Methoxybenzene                     | **Anisole**             |
+| **Ph–CH₃**       | Methylbenzene                      | **Toluene**             |
+| **Ph–C₂H₅**      | Ethylbenzene                       | **Ethylbenzene**        |
+| **Ph–CH=CH₂**    | Ethenylbenzene                     | **Styrene**             |
+| **Ph–CH₂–Ph**    | Phenylmethylbenzene                | **Diphenylmethane**     |
+| **Ph–CH(OH)–Ph** | Diphenylmethanol                   | **Benzhydrol**          |
+| **Ph–CHCl₂**     | Dichloromethylbenzene              | **Benzal chloride**     |
+| **Ph–CH₂Cl**     | Chloromethylbenzene                | **Benzyl chloride**     |
+| **Ph–CHCl₂**     | Dichloromethylbenzene              | **Benzal chloride**     |
+| **Ph–CCl₃**      | Trichloromethylbenzene             | **Benzotrichloride**    |
+| **Ph–CH(CH₃)₂**       | I-propylbenzene                      | **Cumene**             |
